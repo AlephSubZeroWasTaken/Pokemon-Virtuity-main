@@ -52,6 +52,7 @@ FL (Control Configurations Script)
 Kirik/Marin/Michael (Hidden Abilities script)
 TungstenBasilisk (Item Drops script)
 Bhagya Jyoti/Shiney570 (BW Pause Menu Script)
+Marin (QUicksave Script) 
 
 DEVS:
 Adri - Creator, main developer and scripter

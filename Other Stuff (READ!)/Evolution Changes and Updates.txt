@@ -9,4 +9,4 @@ EVOLUTIONS:
 
 - Kubfu now evolves through Dusk Stone or Water Stone.
 
-- Alcremie now evolves via Shiny Stone.
+- Milcery now evolves via Shiny Stone.

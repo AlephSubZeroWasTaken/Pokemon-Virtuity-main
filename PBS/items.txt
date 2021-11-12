@@ -770,19 +770,4 @@
 747,PARKBALL,Park Ball,Park Balls,3,300,"A Poké Ball that has a higher chance to catch monotyped Pokémon.",0,4,4,
 748,HEAVENLYFEATHERS,Heavenly Feathers,Heavenly Feathers,8,0,"A splicer made of wings that fuses the legendary birds and their Galarian counterparts. The fusions are said to be quite strong and angelic in design.",5,0,6,
 #-------------------------------
-<<<<<<< HEAD
-749,XATITE,Xatite,Xatites,1,0,"One of a variety of mySterious Mega Stones. Have Xatu hold it, and it will be able to Mega Evolve.",0,0,12,
-750,FROSMITE,Frosmite,Frosmites,1,0,"One of a variety of mysterious Mega Stones. Have Frosmoth hold it, and it will be able to Mega Evolve.",0,0,12,
-751,SLOWKITE,Slowkite,Slowkites,1,0,"One of a variety of mysterious Mega Stones. Have Slowking hold it, and it will be able to Mega Evolve.",0,0,12,
-752,ARCANITE,Arcanite,Arcanites,1,0,"One of a variety of mysterious Mega Stones. Have Arcanine hold it, and it will be able to Mega Evolve.",0,0,12,
-753,FROSLITE,Froslite,Froslite,1,0,"One of a variety of mysterious Mega Stones. Have Froslass hold it, and it will be able to Mega Evolve.",0,0,12,
-754,NINETATE,Ninetate,Ninetates,1,0,"One of a variety of mysterious Mega Stones. Have Ninetales hold it, and it will be able to Mega Evolve.",0,0,12,
-#-------------------------------
-755,TM81,TM81,TM81s,4,36000,"The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.",3,0,0,XSCISSOR
-=======
-756,XATITE,Xatite,Xatites,1,0,"One of a variety of mySterious Mega Stones. Have Xatu hold it, and it will be able to Mega Evolve.",0,0,12,
-757,FROSMITE,Frosmite,Frosmites,1,0,"One of a variety of mysterious Mega Stones. Have Frosmoth hold it, and it will be able to Mega Evolve.",0,0,12,
-758,SLOWKITE,Slowkite,Slowkites,1,0,"One of a variety of mysterious Mega Stones. Have Slowking hold it, and it will be able to Mega Evolve.",0,0,12,
-759,ARCANITE,Arcanite,Arcanites,1,0,"One of a variety of mysterious Mega Stones. Have Arcanine hold it, and it will be able to Mega Evolve.",0,0,12,
-760,FROSLITE,Froslite,Froslite,1,0,"One of a variety of mysterious Mega Stones. Have Froslass hold it, and it will be able to Mega Evolve.",0,0,12,
-761,NINETATE,Ninetate,Ninetates,1,0,"One of a variety of mysterious Mega Stones. Have Ninetales hold it, and it will be able to Mega Evolve.",0,0,12,
+749,TM81,TM81,TM81s,4,36000,"The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.",3,0,0,XSCISSOR
