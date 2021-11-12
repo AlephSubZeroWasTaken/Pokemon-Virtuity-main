@@ -1,0 +1,4 @@
+POKEBALL CHANGES:
+- The Cherish Ball now has a higher chance to catch Undiscovered Pokemon and Ditto.
+- The Crystalline Ball is a more expansive replacement of the Moon Ball, covering all evolution stones rather than just one.
+- The Sports Ball additionally has a higher chance of capturing Pokemon with these 3 types of moves: Kick, ball, or punch.

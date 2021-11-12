@@ -1,0 +1,63 @@
+#==============================================================================#
+#=====================Elementalistic Emootions Fields Guide====================#                
+                  Credit to Azery the Rejuv dev for the field guide structure!    
+#==============================================================================#
+#===============================General Information:===========================#
+- The fields system used is mainly from Rejuvenation if they are not are custom occasional updates to their mechanics and effects.
+- To search this guide use Control+F!
+#=====================================Index:===================================#
+1 - Electric Terrain - ET
+2 - Grassy Terrain - GT
+3 - Misty Terrain - MT
+4 - Psychic Terrain - PT
+5 - Glitch - GH
+6 - Factory - FT 
+7 - Short-Circuit - SC 
+8 - Mountain - MN
+9 - Tundra - T
+10 - Frozen Tundra - FT
+11 - Mountain Peak - MP 
+12 - Water Surface - WS
+13 - Underwater - UW
+14 - Cave - CV
+15 - Crystalized Cavern - CC
+16 - City - CY
+17 - Dark Alleyway - DA 
+18 - Sleepy Arena - SLA
+19 - Starlight Arena - STA
+20 - Ancient World - AW
+21 - Beach - B  
+22 - Forest - F
+23 - Poisoned - P
+24 - Rainbow - RB
+#====================================Fields:===================================#
+                          > 1 - Electric Terrain - ET <
+"The area sparks and crackles!"
+Field Creation: 
+-> Electric Terrain/Electric Surge (5), Ion Deluge/Stoked Sparksurfer (3)
+
+Type Modification: 
+-> Grounded Electric Moves (1.5x) 
+
+Ability Modification: 
+-> Surge Surfer active
+
+Move Modification:
+-> All Water Moves, Power Gem and Flash Cannon gain Electric
+-> Sleep Moves fail
+-> Mud Sport and Steamroller remove the field
+-> Magnet Rise lasts 8 turns
+-> Charge and Eerie Impulse double in effect
+
+Nature Power Effect: 
+-> Thunderbolt
+
+Secret Power Effect: 
+-> Paralysis (10%)
+
+Camouflage Effect: 
+-> Electric
+
+Seed Effect: 
+-> Defense
+-> Charge Effect

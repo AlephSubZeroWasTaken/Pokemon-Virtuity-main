@@ -1,0 +1,12 @@
+EVOLUTIONS:
+- Meltan now evolves the same way Scizor does; with the Metal Coat.
+-> Any Pokemon that evolve via trade require the Link Heart.
+--> Any Pokemon that evolve via trade and item require just that item, used ala evolution stone.
+
+- Toxel and Kubfu evolve differently as well.
+-> Kubfu into Urshifu Single (Dusk Stone) OR Water Stone (Urshifu Rapid)
+-> Toxel into Amped Toxtricity (Throat Spray) OR Low Key Toxtricity (Metronome)
+
+- Kubfu now evolves through Dusk Stone or Water Stone.
+
+- Alcremie now evolves via Shiny Stone.
