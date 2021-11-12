@@ -768,6 +768,5 @@
 745,FANTASYBALL,Fantasy Ball,Fantasy Balls,3,300,"A somewhat different Poké Ball that is more effective when attempting to catch Fairy-, Dragon- or Ghost-type Pokémon.",0,4,4,
 746,REACTIONBALL,Reaction Ball,Reaction Balls,3,300,"A Poké Ball that makes it easier to catch Pokémon that are either very fast or very slow.",0,4,4,
 747,PARKBALL,Park Ball,Park Balls,3,300,"A Poké Ball that has a higher chance to catch monotyped Pokémon.",0,4,4,
-748,HEAVENLYFEATHERS,Heavenly Feathers,Heavenly Feathers,8,0,"A splicer made of wings that fuses the legendary birds and their Galarian counterparts. The fusions are said to be quite strong and angelic in design.",5,0,6,
 #-------------------------------
-749,TM81,TM81,TM81s,4,36000,"The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.",3,0,0,XSCISSOR
+748,TM81,TM81,TM81s,4,36000,"The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.",3,0,0,XSCISSOR
