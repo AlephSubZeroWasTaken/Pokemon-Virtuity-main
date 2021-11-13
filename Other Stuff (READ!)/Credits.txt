@@ -52,7 +52,16 @@ FL (Control Configurations Script)
 Kirik/Marin/Michael (Hidden Abilities script)
 TungstenBasilisk (Item Drops script)
 Bhagya Jyoti/Shiney570 (BW Pause Menu Script)
-Marin (QUicksave Script) 
+Marin (Quicksave Script) 
+mej71/bo4p5687 (Multiple Save Files)
+Golisopod User (Level Capping)
+Lexor (Field Moves by Compatability)
+Luka S.J. (Scripting Utilies)
+Marin (Automatic Script Backup System)
+BW2 Bag Script (CharizardThree3)
+HDrawer (BW Save Script)
+DeepBlue PacificWaves (BW Summary Pack)
+
 
 DEVS:
 Adri - Creator, main developer and scripter
