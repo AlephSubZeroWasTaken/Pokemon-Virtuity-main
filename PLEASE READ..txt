@@ -73,3 +73,8 @@ Coin - Tilesets
 JCSER77 - Spriting
 
 WE ARE DEFINITELY MISSING SOME PEOPLE. IF YOU HAVE ANY IDEA WHO PLEASE MENTION SUCH!
+
+NOTES ABOUT THIS GAME SPECIFICALLY!:
+Do not delete SavesGame1. It is coded to STORE YOUR SAVES IN THE **Pokemon Virtuity Saves** folder.
+
+Other stuff has some interesting notes and details about the game itself it is suggested to read. **Optional though!**
