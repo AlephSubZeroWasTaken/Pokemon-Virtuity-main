@@ -101,76 +101,6 @@ WildItemUncommon = PECHABERRY
 BattlerPlayerY = 21
 BattlerEnemyY = 25
 #-------------------------------
-[PIKACHU,3]
-FormName = Cosplay Pikachu
-Compatibility = Undiscovered
-Pokedex = Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.
-#-------------------------------
-[PIKACHU,4]
-FormName = Cosplay Pikachu - Belle
-Compatibility = Undiscovered
-Pokedex = Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.
-#-------------------------------
-[PIKACHU,5]
-FormName = Cosplay Pikachu - Libre
-Compatibility = Undiscovered
-Pokedex = Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.
-#-------------------------------
-[PIKACHU,6]
-FormName = Cosplay Pikachu - Ph.D.
-Compatibility = Undiscovered
-Pokedex = Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.
-#-------------------------------
-[PIKACHU,7]
-FormName = Cosplay Pikachu - Pop Star
-Compatibility = Undiscovered
-Pokedex = Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.
-#-------------------------------
-[PIKACHU,8]
-FormName = Cosplay Pikachu - Rock Star
-Compatibility = Undiscovered
-Pokedex = Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.
-#-------------------------------
-[PIKACHU,9]
-FormName = Original Cap Pikachu
-Compatibility = Undiscovered
-Pokedex = This Pikachu wears its partner's cap, which is brimming with memories of traveling through many different regions.
-#-------------------------------
-[PIKACHU,10]
-FormName = Hoenn Cap Pikachu
-Compatibility = Undiscovered
-Pokedex = This Pikachu wears its partner's cap, which is brimming with memories of traveling through the Hoenn region.
-#-------------------------------
-[PIKACHU,11]
-FormName = Sinnoh Cap Pikachu
-Compatibility = Undiscovered
-Pokedex = This Pikachu wears its partner's cap, which is brimming with memories of traveling through the Sinnoh region.
-#-------------------------------
-[PIKACHU,12]
-FormName = Unova Cap Pikachu
-Compatibility = Undiscovered
-Pokedex = This Pikachu wears its partner's cap, which is brimming with memories of traveling through the Unova region.
-#-------------------------------
-[PIKACHU,13]
-FormName = Kalos Cap Pikachu
-Compatibility = Undiscovered
-Pokedex = This Pikachu wears its partner's cap, which is brimming with memories of traveling through the Kalos region.
-#-------------------------------
-[PIKACHU,14]
-FormName = Alola Cap Pikachu
-Compatibility = Undiscovered
-Pokedex = This Pikachu wears its partner's cap, which is brimming with memories of traveling through the Alola region.
-#-------------------------------
-[PIKACHU,15]
-FormName = Partner Cap Pikachu
-Compatibility = Undiscovered
-Pokedex = This Pikachu wears its partner's cap, which is brimming with memories of when they first met.
-#-------------------------------
-[PIKACHU,16]
-FormName = World Cap Pikachu
-Compatibility = Undiscovered
-Pokedex = This Pikachu is wearing its Trainer's cap. The cap is a precious symbol that travels across different regions with Pikachu.
-#-------------------------------
 [RAICHU,1]
 FormName = Alolan
 Type1 = ELECTRIC
@@ -649,11 +579,7 @@ Weight = 33.0
 Pokedex = Despite its diminished size, its mental power has grown phenomenally. With a mere thought, it can smash a skyscraper to smithereens.
 BattlerPlayerY = 22
 BattlerEnemyY = 17
-#-------------------------------
-[PICHU,1]
-FormName = Spiky-Eared
-Evolutions = PIKACHU,None,
-#-------------------------------
+#--------------------------------
 [AMPHAROS,1]
 FormName = Mega Ampharos
 MegaStone = AMPHAROSITE
@@ -1631,122 +1557,6 @@ FormName = Chill Drive
 [GENESECT,4]
 FormName = Douse Drive
 #-------------------------------
-[VIVILLON,1]
-FormName = Continental Pattern
-#-------------------------------
-[VIVILLON,2]
-FormName = Elegant Pattern
-#-------------------------------
-[VIVILLON,3]
-FormName = Garden Pattern
-#-------------------------------
-[VIVILLON,4]
-FormName = High Plains Pattern
-#-------------------------------
-[VIVILLON,5]
-FormName = Icy Snow Pattern
-#-------------------------------
-[VIVILLON,6]
-FormName = Jungle Pattern
-#-------------------------------
-[VIVILLON,7]
-FormName = Marine Pattern
-#-------------------------------
-[VIVILLON,8]
-FormName = Meadow Pattern
-#-------------------------------
-[VIVILLON,9]
-FormName = Modern Pattern
-#-------------------------------
-[VIVILLON,10]
-FormName = Monsoon Pattern
-#-------------------------------
-[VIVILLON,11]
-FormName = Ocean Pattern
-#-------------------------------
-[VIVILLON,12]
-FormName = Polar Pattern
-#-------------------------------
-[VIVILLON,13]
-FormName = River Pattern
-#-------------------------------
-[VIVILLON,14]
-FormName = Sandstorm Pattern
-#-------------------------------
-[VIVILLON,15]
-FormName = Savanna Pattern
-#-------------------------------
-[VIVILLON,16]
-FormName = Sun Pattern
-#-------------------------------
-[VIVILLON,17]
-FormName = Tundra Pattern
-#-------------------------------
-[VIVILLON,18]
-FormName = Fancy Pattern
-#-------------------------------
-[VIVILLON,19]
-FormName = Poké Ball Pattern
-#-------------------------------
-[FLABEBE,1]
-FormName = Yellow Flower
-BattlerPlayerY = 23
-#-------------------------------
-[FLABEBE,2]
-FormName = Orange Flower
-BattlerPlayerY = 23
-#-------------------------------
-[FLABEBE,3]
-FormName = Blue Flower
-BattlerPlayerY = 23
-#-------------------------------
-[FLABEBE,4]
-FormName = White Flower
-BattlerPlayerY = 23
-#-------------------------------
-[FLOETTE,1]
-FormName = Yellow Flower
-BattlerPlayerY = 19
-#-------------------------------
-[FLOETTE,2]
-FormName = Orange Flower
-BattlerPlayerY = 19
-#-------------------------------
-[FLOETTE,3]
-FormName = Blue Flower
-BattlerPlayerY = 19
-#-------------------------------
-[FLOETTE,4]
-FormName = White Flower
-BattlerPlayerY = 19
-#-------------------------------
-[FLOETTE,5]
-FormName = Eternal Flower
-BaseStats = 74,65,67,92,125,128
-BaseEXP = 243
-Moves = 1,TACKLE,1,VINEWHIP,1,FAIRYWIND,6,FAIRYWIND,10,LUCKYCHANT,15,RAZORLEAF,20,WISH,25,MAGICALLEAF,27,GRASSYTERRAIN,33,PETALBLIZZARD,38,AROMATHERAPY,43,MISTYTERRAIN,46,MOONBLAST,50,LIGHTOFRUIN,51,PETALDANCE,58,SOLARBEAM
-Compatibility = Undiscovered
-Pokedex = The flower it's holding can no longer be found blooming anywhere. It's also thought to contain terrifying power.
-BattlerPlayerY = 15
-BattlerEnemyY = 19
-Evolutions = FLORGES,None,
-#-------------------------------
-[FLORGES,1]
-FormName = Yellow Flower
-BattlerPlayerY = 12
-#-------------------------------
-[FLORGES,2]
-FormName = Orange Flower
-BattlerPlayerY = 12
-#-------------------------------
-[FLORGES,3]
-FormName = Blue Flower
-BattlerPlayerY = 12
-#-------------------------------
-[FLORGES,4]
-FormName = White Flower
-BattlerPlayerY = 12
-#-------------------------------
 [FURFROU,1]
 FormName = Heart Trim
 #-------------------------------
@@ -1921,11 +1731,6 @@ Color = Purple
 Pokedex = It summons the dead with its dreamy dancing. From their malice, it draws power with which to curse its enemies.
 BattlerPlayerY = 21
 BattlerEnemyY = 25
-#-------------------------------
-[ROCKRUFF,2]
-Abilities = OWNTEMPO
-HiddenAbility = OWNTEMPO
-Evolutions = LYCANROC,LevelEvening,25
 #-------------------------------
 [LYCANROC,1]
 FormName = Midnight Form
