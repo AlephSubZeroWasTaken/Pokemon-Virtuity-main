@@ -1960,7 +1960,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 22
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = POLIWRATH,Item,WATERSTONE,POLITOED,Item,KINGSROCK
+Evolutions = POLIWRATH,Item,WATERSTONE,POLITOED,TradeItem,KINGSROCK
 #-------------------------------
 [62]
 Name = Poliwrath
@@ -2058,7 +2058,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 13
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = ALAKAZAM,Item,LINKHEART
+Evolutions = ALAKAZAM,Trade
 #-------------------------------
 [65]
 Name = Alakazam
@@ -2155,7 +2155,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 12
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = MACHAMP,Item,LINKHEART
+Evolutions = MACHAMP,Trade
 #-------------------------------
 [68]
 Name = Machamp
@@ -2418,7 +2418,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 22
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = GOLEM,Item,LINKHEART
+Evolutions = GOLEM,Trade
 #-------------------------------
 [76]
 Name = Golem
@@ -2548,7 +2548,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 29
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = SLOWBRO,Level,37,SLOWKING,Item,KINGSROCK
+Evolutions = SLOWBRO,Level,37,SLOWKING,TradeItem,KINGSROCK
 #-------------------------------
 [80]
 Name = Slowbro
@@ -3008,7 +3008,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 20
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = GENGAR,Item,LINKHEART
+Evolutions = GENGAR,Trade
 #-------------------------------
 [94]
 Name = Gengar
@@ -3072,7 +3072,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 8
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = STEELIX,Item,METALCOAT
+Evolutions = STEELIX,TradeItem,METALCOAT
 #-------------------------------
 [96]
 Name = Drowzee
@@ -3616,7 +3616,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 11
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = RHYPERIOR,Item,PROTECTOR
+Evolutions = RHYPERIOR,TradeItem,PROTECTOR
 #-------------------------------
 [113]
 Name = Chansey
@@ -3778,7 +3778,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 18
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = KINGDRA,Item,DRAGONSCALE
+Evolutions = KINGDRA,TradeItem,DRAGONSCALE
 #-------------------------------
 [118]
 Name = Goldeen
@@ -3976,7 +3976,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 12
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = SCIZOR,Item,METALCOAT
+Evolutions = SCIZOR,TradeItem,METALCOAT
 #-------------------------------
 [124]
 Name = Jynx
@@ -4040,7 +4040,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 13
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = ELECTIVIRE,Item,ELECTIRIZER
+Evolutions = ELECTIVIRE,TradeItem,ELECTIRIZER
 #-------------------------------
 [126]
 Name = Magmar
@@ -4072,7 +4072,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 13
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = MAGMORTAR,Item,MAGMARIZER
+Evolutions = MAGMORTAR,TradeItem,MAGMARIZER
 #-------------------------------
 [127]
 Name = Pinsir
@@ -4423,7 +4423,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 27
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = PORYGON2,Item,UPGRADE
+Evolutions = PORYGON2,TradeItem,UPGRADE
 #-------------------------------
 [138]
 Name = Omanyte
@@ -7520,7 +7520,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 28
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = PORYGONZ,Item,DUBIOUSDISC
+Evolutions = PORYGONZ,TradeItem,DUBIOUSDISC
 #-------------------------------
 [234]
 Name = Stantler
@@ -11188,7 +11188,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 21
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = MILOTIC,Beauty,170,MILOTIC,Item,PRISMSCALE
+Evolutions = MILOTIC,Beauty,170,MILOTIC,TradeItem,PRISMSCALE
 #-------------------------------
 [350]
 Name = Milotic
@@ -11409,7 +11409,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 9
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = DUSKNOIR,Item,REAPERCLOTH
+Evolutions = DUSKNOIR,TradeItem,REAPERCLOTH
 #-------------------------------
 [357]
 Name = Tropius
@@ -11723,7 +11723,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 24
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = HUNTAIL,Item,DEEPSEATOOTH,GOREBYSS,Item,DEEPSEASCALE
+Evolutions = HUNTAIL,TradeItem,DEEPSEATOOTH,GOREBYSS,TradeItem,DEEPSEASCALE
 #-------------------------------
 [367]
 Name = Huntail
@@ -16655,7 +16655,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 30
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = GIGALITH,Item,LINKHEART
+Evolutions = GIGALITH,TradeItem,LINKHEART
 #-------------------------------
 [526]
 Name = Gigalith
@@ -16906,7 +16906,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 28
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = CONKELDURR,Item,LINKHEART
+Evolutions = CONKELDURR,TradeItem,LINKHEART
 #-------------------------------
 [534]
 Name = Conkeldurr
@@ -18635,7 +18635,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 36
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = ESCAVALIER,Trade,
+Evolutions = ESCAVALIER,Trade
 #-------------------------------
 [589]
 Name = Escavalier
@@ -21613,7 +21613,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 35
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = SLURPUFF,Item,WHIPPEDDREAM
+Evolutions = SLURPUFF,TradeItem,WHIPPEDDREAM
 #-------------------------------
 [685]
 Name = Slurpuff
@@ -22363,7 +22363,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 32
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = TREVENANT,Item,LINKHEART
+Evolutions = TREVENANT,Trade,
 #-------------------------------
 [709]
 Name = Trevenant
@@ -22427,7 +22427,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 33
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = GOURGEIST,Item,LINKHEART
+Evolutions = GOURGEIST,Trade
 #-------------------------------
 [711]
 Name = Gourgeist
