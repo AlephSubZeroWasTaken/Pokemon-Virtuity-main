@@ -1,0 +1,80 @@
+Credits go to:
+
+GEN 8 SPRITES: 
+leParagon
+conyjams
+RadicalCharizard
+EventHorizontal
+G.E.Z.
+KingOfThe-X-Roads
+Crocovyle
+InvoluntaryTwitch
+mjco
+Cynda
+zlolxd
+PumpkinPastel
+Smeargletail
+Khrona
+Andracass
+Amethyst
+Janichroma
+Zumi(Honnojis)
+
+FOLLOWERS:
+mej71 (Scripts)
+Insurgence Dev Team
+Princess Phoenix
+blaner
+Zender1752
+OldSoulja
+Clara Wah
+Kidkatt
+Piphybuilder88
+HantomProductions
+Primarina
+Blazzard
+Johnny05
+Zlolxd
+Nataniel-Sama
+Unknown
+SageDeoxys
+Kidkatt
+
+CUSTOM ART:
+sashamich_ (Loading Background)
+PandiRocks-17 (Game Logo)
+
+SCRIPTS:
+Golisopod User/Wolf (New Kubfu+Toxel method)
+Marin (Fast-forward)
+boonzet (Item Descriptions)
+FL (Control Configurations Script)
+Kirik/Marin/Michael (Hidden Abilities script)
+TungstenBasilisk (Item Drops script)
+Bhagya Jyoti/Shiney570 (BW Pause Menu Script)
+Marin (Quicksave Script) 
+mej71/bo4p5687 (Multiple Save Files)
+Golisopod User (Level Capping)
+Lexor (Field Moves by Compatability)
+Luka S.J. (Scripting Utilies)
+Marin (Automatic Script Backup System)
+BW2 Bag Script (CharizardThree3)
+HDrawer (BW Save Script)
+DeepBlue PacificWaves (BW Summary Pack)
+Not Important - (Better AI System)
+
+DEVS:
+Adri - Creator, main developer and scripter
+Sheedan - Spriting and music 
+Rai-cy & Slimsharna - Balancing 
+Toyo - Balancing and story writing 
+Semi Feral Cat Lady - Story writing 
+Coin - Tilesets
+JCSER77 - Spriting
+
+WE ARE DEFINITELY MISSING SOME PEOPLE. IF YOU HAVE ANY IDEA WHO PLEASE MENTION SUCH!
+
+NOTES ABOUT THIS GAME SPECIFICALLY!:
+Do not delete SavesGame1. It is coded to STORE YOUR SAVES IN THE **Pokemon Virtuity Saves** folder.
+
+Other stuff has some interesting notes and details about the game itself it is suggested to read. **Optional though!**

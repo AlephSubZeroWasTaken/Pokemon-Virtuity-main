@@ -770,3 +770,8 @@
 747,PARKBALL,Park Ball,Park Balls,3,300,"A Poké Ball that has a higher chance to catch monotyped Pokémon.",0,4,4,
 #-------------------------------
 748,TM81,TM81,TM81s,4,36000,"The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.",3,0,0,XSCISSOR
+#-------------------------------
+749,JOYSCENT,Joy Scent,1,300,"This scent massage opens the hearts of Pokémon a little.",1,0,0
+750,EXCITESCENT,Excite Scent,1,500,"This scent massage opens the hearts of Pokémon.",1,0,0
+751,VIVIDSCENT,Vivid Scent,1,800,"This scent massage opens the hearts of Pokémon a lot.",1,0,0
+752,TIMEFLUTE,Time Flute,1,3000,"This item fully opens the hearts of a Pokémon.",1,0,0

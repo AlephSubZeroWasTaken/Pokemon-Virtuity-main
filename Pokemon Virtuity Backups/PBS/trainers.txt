@@ -17,10 +17,12 @@ Pokemon = ONIX,14
     Name = Rocky
     Gender = male
     Shiny = yes
+    Shadow = yes
     Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
     Ability = 0
     Item = SITRUSBERRY
     IV = 20
+    EV = 30,30,30,30,30,30
     Ball = 19
 #-------------------------------
 [TEAMROCKET_M,Grunt,1]

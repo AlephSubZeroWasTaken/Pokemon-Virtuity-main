@@ -1,4 +1,4 @@
-# See the documentation on the wiki to learn how to edit this file.
+﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 1,REPEL,Repel,Repels,1,400,"An item that prevents weak wild Pokémon from appearing for 100 steps after its use.",2,0,0,
 2,SUPERREPEL,Super Repel,Super Repels,1,700,"An item that prevents weak wild Pokémon from appearing for 200 steps after its use.",2,0,0,
@@ -644,7 +644,8 @@
 630,PRISONBOTTLE,Prison Bottle,Prison Bottles,8,0,"A bottle believed to have been used to seal away the power of a certain Pokémon long, long ago.",5,0,6,
 631,NSOLARIZER,N-Solarizer,N-Solarizers,8,0,"A machine to fuse Necrozma, which needs light, and Solgaleo.",5,0,6,
 632,NLUNARIZER,N-Lunarizer,N-Lunarizers,8,0,"A machine to fuse Necrozma, which needs light, and Lunala.",5,0,6,
-633,MEGARING,Mega-Z Ring,Mega-Z Rings,8,0,"This ring contains an untold power that somehow enables Pokémon carrying special crystals to use them in battle.",0,0,6
+633,MEGARING,Mega-Z Ring,Mega-Z Rings,8,0,"This ring contains an untold power that somehow enables Pokémon carrying special crystals to use them in battle.",0,0,6,
+#-------------------------------
 634,LINKHEART,Link Heart,Link Hearts,1,10000,"A stone that fills the Pokemon's heart with a feeling similar to that of being traded.",1,0,7,
 #-------------------------------
 635,TM101,TM101,TM101s,4,10000,"A move that works differently for the Ghost type than for all other types.",3,0,0,CURSE
@@ -663,8 +664,8 @@
 648,TM114,TM113,TM113s,4,10000,"The user swings both arms and hits the target. The target's stat changes don't affect this attack's damage.",3,0,0,DARKESTLARIAT
 649,TM115,TM114,TM114s,4,5000,"A slashing attack with a poisonous blade that may also poison the target. Critical hits land more easily.",3,0,0,CROSSPOISON
 650,TM116,TM115,TM115s,4,10000,"The user attacks by breathing a special, hot fire. This also lowers the target's Sp. Atk stat.",3,0,0,MYSTICALFIRE
-651,TM117,TM116,TM116s,4,10000,"The user attacks by slamming its body into the target. The higher the user's Defense, the more damage it can inflict on the target.",3,0,0,BODYPRESS 
-652,TM118,TM117,TM117s,4,10000,"This attack move varies in power and type depending on the weather..",3,0,0,WEATHERBALL 
+651,TM117,TM116,TM116s,4,10000,"The user attacks by slamming its body into the target. The higher the user's Defense, the more damage it can inflict on the target.",3,0,0,BODYPRESS
+652,TM118,TM117,TM117s,4,10000,"This attack move varies in power and type depending on the weather..",3,0,0,WEATHERBALL
 653,TM119,TM118,TM118s,4,10000,"The user switches places with a party Pokémon in waiting, if any. If a wild Pokémon uses this move, it flees.",3,0,0,TELEPORT
 654,TM120,TM119,TM119s,4,5000,"The user attacks opposing Pokémon with fire. If a Pokémon is holding a certain item, such as a Berry, the item becomes burned up and unusable.",3,0,0,INCINERATE
 655,TM121,TM121,TM121s,4,10000,"The user slashes the target with huge, sharp claws.",3,0,0,DRAGONCLAW
@@ -700,14 +701,13 @@
 684,GRIMMSNITE,Grimmsnite,Grimmsnites,1,0,"One of a variety of mysterious Mega Stones. Have Grimmsnarl hold it, and it will be able to Mega Evolve.",0,0,12,
 685,HATTERENITE,Hatterenite,Hatterenites,1,0,"One of a variety of mysterious Mega Stones. Have Hatterene hold it, and it will be able to Mega Evolve.",0,0,12,
 686,ALCREMITE,Alcremite,Alcremites,1,0,"One of a variety of mysterious Mega Stones. Have Alcremie hold it, and it will be able to Mega Evolve.",0,0,12,
-687,COPPERAJITE,Copperajite, a Copperajites,1,0,"One of a variety of mysterious Mega Stones. Have Copperajah hold it, and it will be able to Mega Evolve.",0,0,12,
+687,COPPERAJITE,Copperajite,a Copperajites,1,0,"One of a variety of mysterious Mega Stones. Have Copperajah hold it, and it will be able to Mega Evolve.",0,0,12,
 688,DURALUDITE,Duraludite,Duraludites,1,0,"One of a variety of mysterious Mega Stones. Have Duraludom hold it, and it will be able to Mega Evolve.",0,0,12,
 689,URSHINGLTE,Urshinglite,Urshinglites,1,0,"One of a variety of mysterious Mega Stones. Have Single Strike form Urshifu hold it, and it will be able to Mega Evolve.",0,0,12,
 690,URSHIDSTRITE,Urshidstrite,Urshidstrites,1,0,"One of a variety of mySterious Mega Stones. Have Rapid Form form Urshifu hold it, and it will be able to Mega Evolve.",0,0,12,
 691,ILOPUNNITE,I. Lopunnite,I. Lopunnites,1,0,"One of a variety of mysterious Mega Stones. Have ImartiamLopunny hold it, and it will be able to Mega Evolve.",0,0,12,
 692,ILAPRITE,I. Laprite,I. Laprites,1,0,"One of a variety of mysterious Mega Stones. Have Imartian Lapras hold it, and it will be able to Mega Evolve.",0,0,12,
 693,IAUDINITE,I. Audinite,I. Audinites,1,0,"One of a variety of mysterious Mega Stones. Have Imartian Audino hold it, and it will be able to Mega Evolve.",0,0,12,
-#-------------------------------
 694,LONELYMINT,Lonely Mint,Lonely Mints,1,20,"When a Pokémon smells this mint, its Attack will grow more easily, but its Defense will grow more slowly.",1,0,0,
 695,ADAMANTMINT,Adamant Mint,Adamant Mints,1,20,"When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Atk will grow more slowly.",1,0,0,
 696,NAUGHTYMINT,Naughty Mint,Naughty Mints,1,20,"When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Def will grow more slowly.",1,0,0,
@@ -729,20 +729,17 @@
 712,JOLLYMINT,Jolly Mint,Jolly Mints,1,20,"When a Pokémon smells this mint, its Speed will grow more easily, but its Sp. Atk will grow more slowly.",1,0,0,
 713,NAIVEMINT,Naive Mint,Naive Mints,1,20,"When a Pokémon smells this mint, its Speed will grow more easily, but its Sp. Def will grow more slowly.",1,0,0,
 714,SERIOUSMINT,Serious Mint,Serious Mints,1,20,"When a Pokémon smells this mint, all of its stats will grow at an equal rate.",1,0,0,
-#-------------------------------
 715,BLUNDERPOLICY,Blunder Policy,Blunder Policy,1,4000,"Raises Speed sharply when a Pokémon misses with a move because of accuracy.",0,0,0,
 716,EJECTPACK,Eject Pack,Eject Packs,1,4000,"An item to be held by a Pokémon. When the holder's stats are lowered, it will be switched out of battle.",0,0,0,
 717,HEAVYDUTYBOOTS,Heavy-Duty Boots,Heavy-Duty Boots,1,4000,"These boots prevent the effects of traps set on the battlefield.",0,0,0,
 718,ROOMSERVICE,Room Service,Room Services,1,4000,"An item to be held by a Pokémon. Lowers Speed when Trick Room takes effect.",0,0,0,
 719,THROATSPRAY,Throat Spray,Throat Sprays,1,4000,"Raises Sp. Atk when the Pokémon uses a sound-based move.",0,0,0,
 720,UTILITYUMBRELLA,Utility Umbrella,Utility Umbrellas,1,4000,"An item to be held by a Pokémon. It protects the holder from the effects of weather.",0,0,0,
-#-------------------------------
 721,EXPCANDYXS,Exp. Candy XS,Exp. Candies XS,1,20,"A candy that is packed with energy. When consumed, it will grant a single Pokémon a very small amount of Exp. Points.",1,0,0,
 722,EXPCANDYS,Exp. Candy S,Exp. Candies S,1,240,"A candy that is packed with energy. When consumed, it will grant a single Pokémon a small amount of Exp. Points.",1,0,0,
 723,EXPCANDYM,Exp. Candy M,Exp. Candies M,1,1000,"A candy that is packed with energy. When consumed, it will grant a single Pokémon a moderate amount of Exp. Points.",1,0,0,
 724,EXPCANDYL,Exp. Candy L,Exp. Candies L,1,3000,"A candy that is packed with energy. When consumed, it will grant a single Pokémon a large amount of Exp. Points.",1,0,0,
 725,EXPCANDYXL,Exp. Candy XL,Exp. Candies XL,1,10000,"A candy that is packed with energy. When consumed, it will grant a single Pokémon a very large amount of Exp. Points.",1,0,0,
-#-------------------------------
 726,GALARICACUFF,Galarica Cuff,Galarica Cuffs,1,3000,"A cuff made from woven-together Galarica Twigs. Giving it to Galarian Slowpoke makes the Pokémon very happy.",1,0,0,
 727,GALARICAWREATH,Galarica Wreath,Galarica Wreaths,1,3000,"A wreath made from woven- Galarica Twigs. Placing it on the head of a Galarian Slowpoke makes it very happy.",1,0,0,
 728,SWEETAPPLE,Sweet Apple,Sweet Apples,1,2200,"A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally sweet.",1,0,7,
@@ -751,18 +748,21 @@
 731,CHIPPEDPOT,Chipped Pot,Chipped Pots,1,1600,"A peculiar teapot that can make a certain species of Pokémon evolve. It's chipped, but tea poured from it is delicious.",1,0,7,
 #-------------------------------
 732,ROTOMCATALOG,Rotom Catalogue,Rotom Catalogues,8,0,"A catalog of devices that Rotom like and can hop in and out of to change their form.",5,0,6,
+#-------------------------------
 733,FOSSILIZEDBIRD,Fossilized Bird,Fossilized Birds,1,5000,"The fossil of an ancient Pokémon that once soared through the sky. What it looked like is a mystery.",0,0,8,
 734,FOSSILIZEDFISH,Fossilized Fish,Fossilized Fishes,1,5000,"The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.",0,0,8,
 735,FOSSILIZEDDRAKE,Fossilized Drake,Fossilized Drakes,1,5000,"The fossil of an ancient Pokémon that once roamed the land. What it looked like is a mystery.",0,0,8,
 736,FOSSILIZEDDINO,Fossilized Dino,Fossilized Dinos,1,5000,"The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.",0,0,8,
 737,RUSTEDSHIELD,Rusted Shield,Rusted Shields,1,0,"It is said that a hero used this shield to halt a terrible disaster in ancient times. But it's grown rusty and worn.",0,0,0,
 738,RUSTEDSWORD,Rusted Sword,Rusted Swords,1,0,"It is said that a hero used this sword to halt a terrible disaster in ancient times. But it's grown rusty and worn.",0,0,0,
-739,REINSOFUNITY,Reins of Unity,Reins of Unity,8,0,"Reins that people presented to the king. They enable Calyrex to connect and communicate with its beloved steed.",5,0,6,
 #-------------------------------
+739,REINSOFUNITY,Reins of Unity,Reins of Unity,8,0,"Reins that people presented to the king. They enable Calyrex to connect and communicate with its beloved steed.",5,0,6,
 740,EXPCHARM,EXP Charm,EXP Charms,8,0,"	A charm that increases the Exp. Points that Pokémon can get. A machine-like object is inside the charm.",0,0,6,
 741,CATCHINGCHARM,Catching Charm,Catching Charms,8,0,"Holding it is said to increase the chance of getting a critical catch. Curiously, the charm doesn't shake much.",0,0,6,
 742,INFINITEROPE,Escape Rope,Escape Ropes,8,0,"A long, durable rope. Use it to escape instantly from a cave or a dungeon.",2,0,6,
+#-------------------------------
 743,COMMONCANDY,Common Candy,Common Candies,2,50,"A candy that does the reverse role that of a Rare Candy.",1,0,0,
+#-------------------------------
 744,ZYGARDECUBE,Zygarde Cube,Zygarde Cubes,8,0,"An item to store Zygarde Cores and Cells. You can also use it to teach Zygarde moves.",2,0,6,
 #-------------------------------
 745,FANTASYBALL,Fantasy Ball,Fantasy Balls,3,300,"A somewhat different Poké Ball that is more effective when attempting to catch Fairy-, Dragon- or Ghost-type Pokémon.",0,4,4,
