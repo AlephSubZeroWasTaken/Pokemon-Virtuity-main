@@ -1,0 +1,19 @@
+
+=================
+
+[Mon Nov 15 16:17:06 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: NoMethodError
+Message: undefined method `name' for nil:NilClass
+
+Backtrace:
+PField_Field:534
+PField_Field:529:in `call'
+Event_Handlers:51:in `trigger'
+Event_Handlers:46:in `each'
+Event_Handlers:46:in `trigger'
+MapFactory:144:in `setMapChanging'
+MapFactory:22:in `setup'
+Scene_Map:71:in `transfer_player'
+Scene_Map:167:in `quicksave_update'
+Scene_Map:160:in `loop'
