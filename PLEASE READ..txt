@@ -50,18 +50,15 @@ Marin (Fast-forward)
 boonzet (Item Descriptions)
 FL (Control Configurations Script)
 Kirik/Marin/Michael (Hidden Abilities script)
-TungstenBasilisk (Item Drops script)
-Bhagya Jyoti/Shiney570 (BW Pause Menu Script)
 Marin (Quicksave Script) 
 mej71/bo4p5687 (Multiple Save Files)
 Golisopod User (Level Capping)
 Lexor (Field Moves by Compatability)
 Luka S.J. (Scripting Utilies)
 Marin (Automatic Script Backup System)
-BW2 Bag Script (CharizardThree3)
-HDrawer (BW Save Script)
-DeepBlue PacificWaves (BW Summary Pack)
 Not Important - (Better AI System)
+JV (Pokemon Mart)
+FL (Trade Evolution Items Script)
 
 DEVS:
 Adri - Creator, main developer and scripter
@@ -71,6 +68,9 @@ Toyo - Balancing and story writing
 Semi Feral Cat Lady - Story writing 
 Coin - Tilesets
 JCSER77 - Spriting
+
+OTHER NOTES:
+The Mail pocket has been replaced with "General Held Items", and Battle Items with "Special Held Items". As a result X Items have been moved to the MEDICINE POCKET!
 
 WE ARE DEFINITELY MISSING SOME PEOPLE. IF YOU HAVE ANY IDEA WHO PLEASE MENTION SUCH!
 
