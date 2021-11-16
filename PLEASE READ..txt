@@ -69,6 +69,9 @@ Semi Feral Cat Lady - Story writing
 Coin - Tilesets
 JCSER77 - Spriting
 
+OTHER NOTES:
+The Mail pocket has been replaced with "General Held Items", and Battle Items with "Special Held Items". As a result X Items have been moved to the MEDICINE POCKET!
+
 WE ARE DEFINITELY MISSING SOME PEOPLE. IF YOU HAVE ANY IDEA WHO PLEASE MENTION SUCH!
 
 NOTES ABOUT THIS GAME SPECIFICALLY!:
