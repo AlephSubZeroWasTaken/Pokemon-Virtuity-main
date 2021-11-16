@@ -2515,3 +2515,27 @@ Scene_Map:162:in `quicksave_update'
 Scene_Map:160:in `loop'
 Scene_Map:169:in `quicksave_update'
 Quick Save:20:in `update'
+
+=================
+
+[Tue Nov 16 15:56:16 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: RuntimeError
+Message: Field An item to be held by a Pokémon. They protect the holder from weather-related damage and powder. is not a positive integer
+File PBS/items.txt, line 543
+534,SAFETYGOGGLES,Safety Goggles,Safety Goggles,7,"An item to be held by a Pokémon. They protect the holder from weather-related damage and powder.",0,0,0,
+
+
+
+
+Backtrace:
+Compiler:389:in `csvPosInt!'
+Compiler:491:in `pbGetCsvRecord'
+Compiler:476:in `each'
+Compiler:476:in `pbGetCsvRecord'
+Compiler_PBS:551:in `pbCompileItems'
+Compiler_PBS:550:in `pbCompilerEachCommentedLine'
+Compiler:260:in `each_line'
+Compiler:260:in `pbCompilerEachCommentedLine'
+Compiler:257:in `open'
+Compiler:257:in `pbCompilerEachCommentedLine'
