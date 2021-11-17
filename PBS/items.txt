@@ -265,30 +265,30 @@
 262,SWIFTWING,Swift Wing,Swift Wings,2,300,"An item for use on a Pokémon. It slightly increases the base Speed stat of a single Pokémon.",1,0,0,
 263,RARECANDY,Rare Candy,Rare Candies,2,10000,"A candy that is packed with energy. It raises the level of a single Pokémon by one.",1,0,0,
 #-------------------------------
-264,MASTERBALL,Master Ball,Master Balls,3,0,"The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.",0,4,4,
-265,ULTRABALL,Ultra Ball,Ultra Balls,3,800,"An ultra-performance Ball that provides a higher Pokémon catch rate than a Great Ball.",0,4,4,
-266,GREATBALL,Great Ball,Great Balls,3,600,"A good, high-performance Ball that provides a higher Pokémon catch rate than a standard Poké Ball.",0,4,4,
-267,POKEBALL,Poké Ball,Poké Balls,3,200,"A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.",0,4,4,
-268,SAFARIBALL,Safari Ball,Safari Balls,3,0,"A special Poké Ball that is used only in the Safari Zone. It is decorated in a camouflage pattern.",0,4,4,
-269,SPORTBALL,Sport Ball,Sport Balls,3,300,"A special PokeBall that has a higher chance to catch Pokemon with kick, punch or ball moves; Also used for Bug-Catching contests.",0,4,4,
-270,NETBALL,Net Ball,Net Balls,3,1000,"A somewhat different Poké Ball that works especially well on Water- and Bug-type Pokémon.",0,4,4,
-271,DIVEBALL,Dive Ball,Dive Balls,3,1000,"A somewhat different Poké Ball that works especially well on Pokémon that live underwater.",0,4,4,
-272,NESTBALL,Nest Ball,Nest Balls,3,1000,"A somewhat different Poké Ball that works especially well on weaker Pokémon in the wild.",0,4,4,
-273,REPEATBALL,Repeat Ball,Repeat Balls,3,1000,"A somewhat different Poké Ball that works especially well on Pokémon species that were previously caught.",0,4,4,
-274,TIMERBALL,Timer Ball,Timer Balls,3,1000,"A somewhat different Ball that becomes progressively better the more turns there are in a battle.",0,4,4,
-275,LUXURYBALL,Luxury Ball,Luxury Balls,3,1000,"A comfortable Poké Ball that makes a caught wild Pokémon quickly grow friendly.",0,4,4,
-276,PREMIERBALL,Premier Ball,Premier Balls,3,20,"A somewhat rare Poké Ball that has been specially made to commemorate an event of some sort.",0,4,4,
-277,DUSKBALL,Dusk Ball,Dusk Balls,3,1000,"A somewhat different Poké Ball that makes it easier to catch wild Pokémon at night or in dark places like caves.",0,4,4,
-278,HEALBALL,Heal Ball,Heal Balls,3,300,"A remedial Poké Ball that restores the caught Pokémon's HP and eliminates any status problem.",0,4,4,
-279,QUICKBALL,Quick Ball,Quick Balls,3,1000,"A somewhat different Poké Ball that provides a better catch rate if used at the start of a wild encounter.",0,4,4,
-280,CHERISHBALL,Cherish Ball,Cherish Balls,3,0,"A Poké Ball that has a higher chance to catch Pokemon that cannot breed.",0,4,4,
-281,FASTBALL,Fast Ball,Fast Balls,3,300,"A Poké Ball that makes it easier to catch fast Pokémon.",0,4,4,
-282,LEVELBALL,Level Ball,Level Balls,3,300,"A Poké Ball for catching Pokémon that are a lower level than your own.",0,4,4,
-283,LUREBALL,Lure Ball,Lure Balls,3,300,"A Poké Ball for catching Pokémon hooked by a Rod when fishing.",0,4,4,
-284,HEAVYBALL,Heavy Ball,Heavy Balls,3,300,"A Poké Ball for catching very heavy Pokémon.",0,4,4,
-285,LOVEBALL,Love Ball,Love Balls,3,300,"A Poké Ball for catching Pokémon that are the opposite gender of your Pokémon.",0,4,4,
-286,FRIENDBALL,Friend Ball,Friend Balls,3,300,"A Poké Ball that makes caught Pokémon more friendly.",0,4,4,
-287,CRYSTALLINEBALL,Crystalline Ball,Crystalline Balls,3,300,"A Poké Ball for catching Pokémon that evolve using an Evolution Stone.",0,4,4,
+264,MASTERBALL,Master Ball,Master Balls,3,0,"The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.",0,4,3,
+265,ULTRABALL,Ultra Ball,Ultra Balls,3,800,"An ultra-performance Ball that provides a higher Pokémon catch rate than a Great Ball.",0,4,3,
+266,GREATBALL,Great Ball,Great Balls,3,600,"A good, high-performance Ball that provides a higher Pokémon catch rate than a standard Poké Ball.",0,4,3,
+267,POKEBALL,Poké Ball,Poké Balls,3,200,"A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.",0,4,3,
+268,SAFARIBALL,Safari Ball,Safari Balls,3,0,"A special Poké Ball that is used only in the Safari Zone. It is decorated in a camouflage pattern.",0,4,3,
+269,SPORTBALL,Sport Ball,Sport Balls,3,300,"A special PokeBall that has a higher chance to catch Pokemon with kick, punch or ball moves; Also used for Bug-Catching contests.",0,4,3,
+270,NETBALL,Net Ball,Net Balls,3,1000,"A somewhat different Poké Ball that works especially well on Water- and Bug-type Pokémon.",0,4,3,
+271,DIVEBALL,Dive Ball,Dive Balls,3,1000,"A somewhat different Poké Ball that works especially well on Pokémon that live underwater.",0,4,3,
+272,NESTBALL,Nest Ball,Nest Balls,3,1000,"A somewhat different Poké Ball that works especially well on weaker Pokémon in the wild.",0,4,3,
+273,REPEATBALL,Repeat Ball,Repeat Balls,3,1000,"A somewhat different Poké Ball that works especially well on Pokémon species that were previously caught.",0,4,3,
+274,TIMERBALL,Timer Ball,Timer Balls,3,1000,"A somewhat different Ball that becomes progressively better the more turns there are in a battle.",0,4,3,
+275,LUXURYBALL,Luxury Ball,Luxury Balls,3,1000,"A comfortable Poké Ball that makes a caught wild Pokémon quickly grow friendly.",0,4,3,
+276,PREMIERBALL,Premier Ball,Premier Balls,3,20,"A somewhat rare Poké Ball that has been specially made to commemorate an event of some sort.",0,4,3,
+277,DUSKBALL,Dusk Ball,Dusk Balls,3,1000,"A somewhat different Poké Ball that makes it easier to catch wild Pokémon at night or in dark places like caves.",0,4,3,
+278,HEALBALL,Heal Ball,Heal Balls,3,300,"A remedial Poké Ball that restores the caught Pokémon's HP and eliminates any status problem.",0,4,3,
+279,QUICKBALL,Quick Ball,Quick Balls,3,1000,"A somewhat different Poké Ball that provides a better catch rate if used at the start of a wild encounter.",0,4,3,
+280,CHERISHBALL,Cherish Ball,Cherish Balls,3,0,"A Poké Ball that has a higher chance to catch Pokemon that cannot breed.",0,4,3,
+281,FASTBALL,Fast Ball,Fast Balls,3,300,"A Poké Ball that makes it easier to catch fast Pokémon.",0,4,3,
+282,LEVELBALL,Level Ball,Level Balls,3,300,"A Poké Ball for catching Pokémon that are a lower level than your own.",0,4,3,
+283,LUREBALL,Lure Ball,Lure Balls,3,300,"A Poké Ball for catching Pokémon hooked by a Rod when fishing.",0,4,3,
+284,HEAVYBALL,Heavy Ball,Heavy Balls,3,300,"A Poké Ball for catching very heavy Pokémon.",0,4,3,
+285,LOVEBALL,Love Ball,Love Balls,3,300,"A Poké Ball for catching Pokémon that are the opposite gender of your Pokémon.",0,4,3,
+286,FRIENDBALL,Friend Ball,Friend Balls,3,300,"A Poké Ball that makes caught Pokémon more friendly.",0,4,3,
+287,CRYSTALLINEBALL,Crystalline Ball,Crystalline Balls,3,300,"A Poké Ball for catching Pokémon that evolve using an Evolution Stone.",0,4,3,
 #-------------------------------
 288,TM01,TM01,TM01s,4,3000,"The user is roused, and its Attack and Sp. Atk stats increase.",3,0,0,WORKUP
 289,TM02,TM02,TM02s,4,5000,"The user swings its tough tail wildly and attacks opposing Pokémon. This also lowers their Attack stats.",3,0,0,BREAKINGSWIPE
@@ -627,8 +627,8 @@
 617,BIGMALASADA,Big Malasada,Big Malasadas,2,350,"The Alola region's specialty--fried bread. It can be used once to heal all the status conditions of a Pokémon.",1,1,0,
 618,ABILITYCAPSULE,Ability Capsule,Ability Capsule,2,10000,"A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used.",1,0,0,
 #-------------------------------
-619,DREAMBALL,Dream Ball,Dream Balls,3,0,"A somewhat different Poké Ball that makes it easier to catch wild Pokémon while they're asleep.",0,4,4,
-620,BEASTBALL,Beast Ball,Beast Balls,3,1000,"A special Poké Ball designed to catch Ultra Beasts. It has a low success rate for catching others.",0,4,4,
+619,DREAMBALL,Dream Ball,Dream Balls,3,0,"A somewhat different Poké Ball that makes it easier to catch wild Pokémon while they're asleep.",0,4,3,
+620,BEASTBALL,Beast Ball,Beast Balls,3,1000,"A special Poké Ball designed to catch Ultra Beasts. It has a low success rate for catching others.",0,4,3,
 #-------------------------------
 621,TM96,TM96,TM96s,4,3500,"This attack makes use of nature's power. Its effects vary depending on the user's environment.",3,0,0,NATUREPOWER
 622,TM97,TM97,TM97s,4,15000,"The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.",3,0,0,DARKPULSE
@@ -765,8 +765,13 @@
 #-------------------------------
 744,ZYGARDECUBE,Zygarde Cube,Zygarde Cubes,8,0,"An item to store Zygarde Cores and Cells. You can also use it to teach Zygarde moves.",2,0,6,
 #-------------------------------
-745,FANTASYBALL,Fantasy Ball,Fantasy Balls,3,300,"A somewhat different Poké Ball that is more effective when attempting to catch Fairy-, Dragon- or Ghost-type Pokémon.",0,4,4,
-746,REACTIONBALL,Reaction Ball,Reaction Balls,3,300,"A Poké Ball that makes it easier to catch Pokémon that are either very fast or very slow.",0,4,4,
-747,PARKBALL,Park Ball,Park Balls,3,300,"A Poké Ball that has a higher chance to catch monotyped Pokémon.",0,4,4,
+745,FANTASYBALL,Fantasy Ball,Fantasy Balls,3,300,"A somewhat different Poké Ball that is more effective when attempting to catch Fairy-, Dragon- or Ghost-type Pokémon.",0,4,3,
+746,REACTIONBALL,Reaction Ball,Reaction Balls,3,300,"A Poké Ball that makes it easier to catch Pokémon that are either very fast or very slow.",0,4,3,
+747,PARKBALL,Park Ball,Park Balls,3,300,"A Poké Ball that has a higher chance to catch monotyped Pokémon.",0,4,3,
 #-------------------------------
 748,TM81,TM81,TM81s,4,36000,"The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.",3,0,0,XSCISSOR
+#-------------------------------
+749,JOYSCENT,Joy Scent,Joy Scents,1,300,"This scent massage opens the hearts of Pokémon a little.",1,0,0
+750,EXCITESCENT,Excite Scent,Excite Scents,1,500,"This scent massage opens the hearts of Pokémon.",1,0,0
+751,VIVIDSCENT,Vivid Scent,Vivid Scents,1,800,"This scent massage opens the hearts of Pokémon a lot.",1,0,0
+752,TIMEFLUTE,Time Flute,Time Flutes,1,3000,"This item fully opens the hearts of a Pokémon.",1,0,0

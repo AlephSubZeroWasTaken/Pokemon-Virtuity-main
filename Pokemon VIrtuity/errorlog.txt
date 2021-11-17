@@ -2615,3 +2615,27 @@ Stat Screens:789:in `pbCommandMenuEx'
 Stat Screens:752:in `loop'
 Stat Screens:791:in `pbCommandMenuEx'
 Scene_Commands:15:in `pbCommandMenu'
+
+=================
+
+[Tue Nov 16 21:13:25 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: RuntimeError
+Message: Field This scent massage opens the hearts of Pokémon a little. is not a positive integer
+File PBS/items.txt, line 774
+749,JOYSCENT,Joy Scent,1,300,"This scent massage opens the hearts of Pokémon a little.",1,0,0
+
+
+
+
+Backtrace:
+Compiler:389:in `csvPosInt!'
+Compiler:491:in `pbGetCsvRecord'
+Compiler:476:in `each'
+Compiler:476:in `pbGetCsvRecord'
+Compiler_PBS:551:in `pbCompileItems'
+Compiler_PBS:550:in `pbCompilerEachCommentedLine'
+Compiler:260:in `each_line'
+Compiler:260:in `pbCompilerEachCommentedLine'
+Compiler:257:in `open'
+Compiler:257:in `pbCompilerEachCommentedLine'
