@@ -2539,3 +2539,79 @@ Compiler:260:in `each_line'
 Compiler:260:in `pbCompilerEachCommentedLine'
 Compiler:257:in `open'
 Compiler:257:in `pbCompilerEachCommentedLine'
+
+=================
+
+[Tue Nov 16 20:26:57 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: Errno::ENOENT
+Message: File Graphics/Pictures/Check stats/Scene_1 not found.
+
+Backtrace:
+Stat Screens:73:in `initialize'
+Stat Screens:73:in `new'
+Stat Screens:73:in `create_sprite'
+Stat Screens:210:in `create_scene'
+Stat Screens:194:in `show'
+Stat Screens:58:in `show'
+Stat Screens:789:in `pbCommandMenuEx'
+Stat Screens:752:in `loop'
+Stat Screens:791:in `pbCommandMenuEx'
+Scene_Commands:15:in `pbCommandMenu'
+
+=================
+
+[Tue Nov 16 20:28:37 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: Errno::ENOENT
+Message: File Graphics/Pictures/Check stats/Scene_1 not found.
+
+Backtrace:
+Stat Screens:73:in `initialize'
+Stat Screens:73:in `new'
+Stat Screens:73:in `create_sprite'
+Stat Screens:210:in `create_scene'
+Stat Screens:194:in `show'
+Stat Screens:58:in `show'
+Stat Screens:789:in `pbCommandMenuEx'
+Stat Screens:752:in `loop'
+Stat Screens:791:in `pbCommandMenuEx'
+Scene_Commands:15:in `pbCommandMenu'
+
+=================
+
+[Tue Nov 16 20:29:46 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: Errno::ENOENT
+Message: File Graphics/Pictures/Check stats/Scene_1 not found.
+
+Backtrace:
+Stat Screens:73:in `initialize'
+Stat Screens:73:in `new'
+Stat Screens:73:in `create_sprite'
+Stat Screens:210:in `create_scene'
+Stat Screens:194:in `show'
+Stat Screens:58:in `show'
+Stat Screens:789:in `pbCommandMenuEx'
+Stat Screens:752:in `loop'
+Stat Screens:791:in `pbCommandMenuEx'
+Scene_Commands:15:in `pbCommandMenu'
+
+=================
+
+[Tue Nov 16 20:30:17 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: Errno::ENOENT
+Message: File Graphics/Pictures/Check stats/Scene_1 not found.
+
+Backtrace:
+Stat Screens:73:in `initialize'
+Stat Screens:73:in `new'
+Stat Screens:73:in `create_sprite'
+Stat Screens:210:in `create_scene'
+Stat Screens:194:in `show'
+Stat Screens:58:in `show'
+Stat Screens:789:in `pbCommandMenuEx'
+Stat Screens:752:in `loop'
+Stat Screens:791:in `pbCommandMenuEx'
+Scene_Commands:15:in `pbCommandMenu'
