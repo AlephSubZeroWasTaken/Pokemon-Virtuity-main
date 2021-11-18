@@ -741,3 +741,5 @@
 717,EXCITESCENT,Excite Scent,Excite Scents,1,500,"This scent massage opens the hearts of Pokémon.",1,0,0
 718,VIVIDSCENT,Vivid Scent,Vivid Scents,1,800,"This scent massage opens the hearts of Pokémon a lot.",1,0,0
 719,TIMEFLUTE,Time Flute,Time Flutes,1,3000,"This item fully opens the hearts of a Pokémon.",1,0,0
+#-------------------------------
+720,ALOLANPANCAKES,Alolan Pancakes,Alolan Pancakes,1,3000,"Pancakes imported from Alola, they allow a certain type of Pokemon to evolve.",1,0,7,

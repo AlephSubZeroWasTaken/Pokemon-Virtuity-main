@@ -7,6 +7,8 @@ EVOLUTIONS:
 -> Kubfu into Urshifu Single (Dusk Stone) OR Water Stone (Urshifu Rapid)
 -> Toxel into Amped Toxtricity (Throat Spray) OR Low Key Toxtricity (Metronome)
 
+- Pikachu now evolves into Alolan Raichu through the Alolan Pancakes.
+
 - Kubfu now evolves through Dusk Stone or Water Stone.
 
 - Milcery now evolves via Shiny Stone.

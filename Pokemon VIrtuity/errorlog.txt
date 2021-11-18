@@ -3120,3 +3120,72 @@ Scene_Map:162:in `quicksave_update'
 Scene_Map:160:in `loop'
 Scene_Map:169:in `quicksave_update'
 Quick Save:20:in `update'
+
+=================
+
+[Thu Nov 18 00:52:14 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: RuntimeError
+Message: Undefined value Raichu in PBSpecies
+File PBS/pokemonforms.txt, section 0, key Evolutions
+
+
+
+
+Backtrace:
+Compiler:414:in `checkEnumField'
+Compiler:401:in `csvEnumField!'
+Compiler_PBS:1079:in `pbCompilePokemonForms'
+Compiler_PBS:1077:in `each_with_index'
+Compiler_PBS:1077:in `each'
+Compiler_PBS:1077:in `each_with_index'
+Compiler_PBS:1077:in `pbCompilePokemonForms'
+Compiler_PBS:1075:in `each'
+Compiler_PBS:1075:in `pbCompilePokemonForms'
+Compiler:1149:in `pbCompileAllData'
+
+=================
+
+[Thu Nov 18 01:01:55 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: RuntimeError
+Message: Undefined value  in PBItems
+File PBS/pokemon.txt, section 0, key Evolutions
+
+
+
+
+Backtrace:
+Compiler:424:in `checkEnumField'
+Compiler:401:in `csvEnumField!'
+Compiler_PBS:872:in `pbCompilePokemonData'
+Compiler_PBS:867:in `each_with_index'
+Compiler_PBS:867:in `each'
+Compiler_PBS:867:in `each_with_index'
+Compiler_PBS:867:in `pbCompilePokemonData'
+Compiler_PBS:865:in `each'
+Compiler_PBS:865:in `pbCompilePokemonData'
+Compiler:1146:in `pbCompileAllData'
+
+=================
+
+[Thu Nov 18 01:02:22 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: RuntimeError
+Message: Undefined value  in PBItems
+File PBS/pokemon.txt, section 0, key Evolutions
+
+
+
+
+Backtrace:
+Compiler:424:in `checkEnumField'
+Compiler:401:in `csvEnumField!'
+Compiler_PBS:872:in `pbCompilePokemonData'
+Compiler_PBS:867:in `each_with_index'
+Compiler_PBS:867:in `each'
+Compiler_PBS:867:in `each_with_index'
+Compiler_PBS:867:in `pbCompilePokemonData'
+Compiler_PBS:865:in `each'
+Compiler_PBS:865:in `pbCompilePokemonData'
+Compiler:1146:in `pbCompileAllData'

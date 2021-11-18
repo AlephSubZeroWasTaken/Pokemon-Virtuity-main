@@ -101,6 +101,10 @@ WildItemUncommon = PECHABERRY
 BattlerPlayerY = 21
 BattlerEnemyY = 25
 #-------------------------------
+[PIKACHU,1]
+FormName = Mouse
+Evolutions = RAICHU,PikachuItem,
+#-------------------------------
 [RAICHU,1]
 FormName = Alolan
 Type1 = ELECTRIC
