@@ -3080,3 +3080,43 @@ Scene_Map:162:in `quicksave_update'
 Scene_Map:160:in `loop'
 Scene_Map:169:in `quicksave_update'
 Quick Save:20:in `update'
+
+=================
+
+[Wed Nov 17 20:19:43 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: RuntimeError
+Message: Script error within event 2 (coords 30,19), map 22 (Supenovia City):
+Exception: NoMethodError
+Message: (eval):2:in `pbExecuteScript'undefined method `pbHasRelearnableMove?' for #<Interpreter:0xc289a40>
+
+***Full script:
+pbChoosePokemon(1,3,proc{|p|
+ pbHasRelearnableMove?(p)
+},true)
+
+
+Backtrace:
+Interpreter:197:in `pbExecuteScript'
+(eval):1:in `call'
+PScreen_Party:1060:in `pbChooseAblePokemon'
+PScreen_Party:1059:in `each'
+PScreen_Party:1059:in `pbChooseAblePokemon'
+PSystem_PokemonUtilities:256:in `pbChoosePokemon'
+PSystem_PokemonUtilities:252:in `pbFadeOutIn'
+PSystem_PokemonUtilities:262:in `pbChoosePokemon'
+(eval):1:in `pbExecuteScript'
+Interpreter:1458:in `eval'
+
+
+Backtrace:
+Interpreter:246:in `pbExecuteScript'
+Interpreter:1458:in `command_355'
+Interpreter:359:in `execute_command'
+Interpreter:155:in `update'
+Interpreter:102:in `loop'
+Interpreter:158:in `update'
+Scene_Map:162:in `quicksave_update'
+Scene_Map:160:in `loop'
+Scene_Map:169:in `quicksave_update'
+Quick Save:20:in `update'
