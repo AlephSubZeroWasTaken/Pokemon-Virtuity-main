@@ -74,3 +74,22 @@ Scene_Map:162:in `quicksave_update'
 Scene_Map:160:in `loop'
 Scene_Map:169:in `quicksave_update'
 Quick Save:20:in `update'
+
+=================
+
+[Thu Nov 18 12:41:08 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: NoMethodError
+Message: undefined method `each' for nil:NilClass
+
+Backtrace:
+MessageConfig:616:in `pbFadeOutAndHide'
+PScreen_Load:194:in `pbEndScene'
+Mutisaves:324:in `pbStartLoadScreen'
+Main:8:in `main'
+Main:45:in `mainFunctionDebug'
+Main:24:in `mainFunction'
+Main:24:in `pbCriticalCode'
+Main:24:in `mainFunction'
+Main:55
+Main:54:in `loop'
