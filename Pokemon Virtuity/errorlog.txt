@@ -1,0 +1,76 @@
+
+=================
+
+[Thu Nov 18 09:26:11 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: RuntimeError
+Message: Script error within event 5 (coords 21,25), map 3 (Route 1 - Younster's Path):
+Exception: NameError
+Message: (eval):1:in `pbExecuteScript'uninitialized constant Interpreter::Pokemon
+
+***Full script:
+Pokemon.play.cry(:COMBEE)
+
+
+Backtrace:
+Interpreter:197:in `pbExecuteScript'
+Interpreter:1458:in `eval'
+Interpreter:197:in `pbExecuteScript'
+Interpreter:1458:in `command_355'
+Interpreter:359:in `execute_command'
+Interpreter:155:in `update'
+Interpreter:102:in `loop'
+Interpreter:158:in `update'
+Scene_Map:162:in `quicksave_update'
+Scene_Map:160:in `loop'
+
+
+Backtrace:
+Interpreter:246:in `pbExecuteScript'
+Interpreter:1458:in `command_355'
+Interpreter:359:in `execute_command'
+Interpreter:155:in `update'
+Interpreter:102:in `loop'
+Interpreter:158:in `update'
+Scene_Map:162:in `quicksave_update'
+Scene_Map:160:in `loop'
+Scene_Map:169:in `quicksave_update'
+Quick Save:20:in `update'
+
+=================
+
+[Thu Nov 18 09:30:06 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: RuntimeError
+Message: Script error within event 4 (coords 16,29), map 3 (Route 1 - Younster's Path):
+Exception: NameError
+Message: (eval):1:in `pbExecuteScript'uninitialized constant Interpreter::Pokemon
+
+***Full script:
+Pokemon.play.cry(:COMBEE)
+
+
+Backtrace:
+Interpreter:197:in `pbExecuteScript'
+Interpreter:1458:in `eval'
+Interpreter:197:in `pbExecuteScript'
+Interpreter:1458:in `command_355'
+Interpreter:359:in `execute_command'
+Interpreter:155:in `update'
+Interpreter:102:in `loop'
+Interpreter:158:in `update'
+Scene_Map:162:in `quicksave_update'
+Scene_Map:160:in `loop'
+
+
+Backtrace:
+Interpreter:246:in `pbExecuteScript'
+Interpreter:1458:in `command_355'
+Interpreter:359:in `execute_command'
+Interpreter:155:in `update'
+Interpreter:102:in `loop'
+Interpreter:158:in `update'
+Scene_Map:162:in `quicksave_update'
+Scene_Map:160:in `loop'
+Scene_Map:169:in `quicksave_update'
+Quick Save:20:in `update'
