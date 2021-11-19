@@ -93,3 +93,51 @@ Main:24:in `pbCriticalCode'
 Main:24:in `mainFunction'
 Main:55
 Main:54:in `loop'
+
+=================
+
+[Thu Nov 18 18:25:04 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: RuntimeError
+Message: Item ID number '296' is used twice.
+File PBS/items.txt, line 306
+296,TM09,TM09,TM09s,4,2000,"The user drenches the target in a special poisonous liquid. Its power is doubled if the target is poisoned.",3,0,0,VENOSHOCK
+
+
+
+
+Backtrace:
+Compiler_PBS:554:in `pbCompileItems'
+Compiler_PBS:550:in `pbCompilerEachCommentedLine'
+Compiler:260:in `each_line'
+Compiler:260:in `pbCompilerEachCommentedLine'
+Compiler:257:in `open'
+Compiler:257:in `pbCompilerEachCommentedLine'
+Compiler_PBS:550:in `pbCompileItems'
+Compiler:1140:in `pbCompileAllData'
+Compiler:1281:in `pbCompiler'
+Main:1
+
+=================
+
+[Thu Nov 18 18:59:53 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: RuntimeError
+Message: Item ID number '298' is used twice.
+File PBS/items.txt, line 304
+298,TM07,TM07,TM07s,4,45000,"Summons a hailstorm that lasts for five turns. The hailstorm damages all types except Ice.",3,0,0,HAIL
+
+
+
+
+Backtrace:
+Compiler_PBS:554:in `pbCompileItems'
+Compiler_PBS:550:in `pbCompilerEachCommentedLine'
+Compiler:260:in `each_line'
+Compiler:260:in `pbCompilerEachCommentedLine'
+Compiler:257:in `open'
+Compiler:257:in `pbCompilerEachCommentedLine'
+Compiler_PBS:550:in `pbCompileItems'
+Compiler:1140:in `pbCompileAllData'
+Compiler:1281:in `pbCompiler'
+Main:1

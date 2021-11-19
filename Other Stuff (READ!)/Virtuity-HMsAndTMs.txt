@@ -3,10 +3,7 @@ HMs:
 2: Fly
 3: Strength
 4: Surf
-5: Waterfall
-6: Dive
-7: Rock Smash
-8: Rock Climb
+5: Rock Smash
 
 TMs:
 1: Work Up
@@ -21,117 +18,141 @@ TMs:
 10: Hidden Power 
 11: Sunny Day
 12: Taunt
-13: Brick Break
+13: Avalanche
 14: Blizzard
-15: Fire Blast
+15: Ice Beam
 16: Light Screen
 17: Protect
 18: Rain Dance
 19: Roost
-20: Safeguard
-21: Frustration
-22: Solar Beam
-23: Smack Down
-24: Thunderbolt
-25: Thunder
-26: Earthquake
-27: Return
-28: Heat Crash
-29: Psychic
-30: Shadow Ball
-31: Brick Break
-32: Double Team
-33: Reflect
-34: Sludge Wave
-35: Flamethrower
-36: Sludge Bomb
-37: Sandstorm
-38: Fire Blast
-39: Rock Tomb
-40: Aerial Ace
-41: Torment
-42: Facade
-43: Flame Charge
-44: Rest
-45: Attract
-46: Thief
-47: Low Sweep
-48: Round
-49: Fire Blast
-50: Overheat
-51: Steel Wing
-52: Focus Blast
-53: Energy Ball
-54: False Swipe
-55: Scald
-56: Fling
-57: Charge Beam
-58: Sky Drop
-59: Brutal Swing
-60: Quash
-61: Will-o-Wisp
-62: Acrobatics
-63: Embargo
-64: Explosion
-65: Shadow Claw
-66: Payback
-67: Smart Strike
-68: Giga Impact
-69: Rock Polish
-70: Aurora Veil
-71: Stone Edge
-72: Volt Switch
-73: Thunder Wave
-74: Gyro Ball
-75: Swords Dance
-76: Struggle Bug
-77: Psych Up
-78: Bulldoze
-79: Frost Breath
-80: Rock Slide
-81: X- Scissor
-82: Dragon Tail
-83: Infestation 
-84: Poison Jab
-85: Dream Eater
-86: Grass Knot
-87: Swagger
-88: Sleep Talk
-89: U-Turn
-90: Substitude
-91: Flash Cannon 
-92: Trick Room
-93: Wild Charge
-94: Secret Power
-95: Snarl
-96: Nature Power
-97: Dark Pulse
-98: Power Up Punch
-99: Dazzling Gleam
-100: Confide
-101: Flash
-102: Endure
-103: Leech Life
-104: Echoed Voice
-105: Dig
-106: Rising Voltage
-107: Grassy Glide
-108: Misty Explosion
-109: Expanding Force
-110: Solar Blade
-111: Cosmic Power
-112: Power Whip
-113: Hyper Beam
-114: Darkest Larriat
-115: Cross Poison
-116: Mystical Fire
-117: Body Press
-118: Weather Ball
-119: Teleport
-120: Incinerate
-121: Dragon Claw
-122: Retaliate
-123: Pollen Puff
-124: Terrain Pulse
-125: Flip Turn
-126: Nasty Plot
+20: Frustration
+21: Solar Beam
+22: Smack Down
+23: Thunderbolt
+24: Thunder
+25: Earthquake
+26: Return
+27: Heat Crash
+28: Psychic
+29: Shadow Ball
+30: Brick Break
+31: Double Team
+32: Reflect
+33: Sludge Wave
+34: Flamethrower
+35: Sludge Bomb
+36: Sandstorm
+37: Fire Blast
+38: Rock Tomb
+39: Aerial Ace
+40: Facade
+41: Flame Charge
+42: Rest
+43: Attract
+44: Thief
+45: Low Sweep
+46: Overheat
+47: Steel Wing
+48: Focus Blast
+49: Energy Ball
+50: False Swipe
+51: Scald
+52: Fling 
+53: Charge Beam
+54: Brutal Swing
+55: Will-o-Wisp
+56: Acrobatics
+57: Explosion
+58: Shadow Claw
+59: Smart Strike
+60: Giga Impact
+61: Rock Polish
+62: Aurora Veil
+63: Stone Edge
+64: Volt Switch
+65: Thunder Wave
+66: Gyro Ball
+67: Swords Dance
+68: Psych Up
+69: Bulldoze
+70: Frost Breath
+71: Rock Slide
+72: X- Scissor
+73: Dragon Tail
+74: Infestation 
+75: Poison Jab
+76: Dream Eater 
+77: Grass Knot
+78: Swagger 
+79: Sleep Talk 
+80: U-Turn
+81: Substitute
+82: Flash Cannon 
+83: Fling
+84: Wild Charge
+85: Snarl
+86: Nature Power
+87: Dark Pulse
+88: Power Up Punch
+89: Dazzling Gleam
+90: Flash
+91: Endure
+92: Leech Life
+93: Echoed Voice
+94: Dig 
+95: Bug Buzz
+96: Sand Tomb
+97: Ally Switch
+98: Mega Kick
+99: Solar Blade
+100: Cosmic Power
+101: Power Whip
+102: Hyper Beam
+103: Darkest Lariat
+104: Cross Poison
+105: Mystical Fire
+106: Body Press 
+107: Teleport 
+108: Incinerate 
+109: Dragon Claw 
+110: Retaliate 
+111: Pollen Puff 
+112: Terrain Pulse
+113: Flip Turn 
+114: Nasty Plot 
+115: Magical Leaf 
+116: Fire Spin 
+117: Screech
+118: Snore
+119: Wish
+120: Charm
+121: Whirlpool
+122: Helping Hand
+123: Revenge 
+124: Fake Tears
+125: Weather Ball
+126: Beat Up
+127: Hex
+128: Razor Shell
+129: Phantom Force
+130: Draining Kiss
+131: Mystical Fire
+132: Hone Claws
+133: Air Slash
+134: Tri Attack
+135: Metronome
+136; Endure
+137: Mirror Coat
+138: Counter
+139: Nightmare
+140: Waterfall
+141: Dive
+142: Rock Climb
+143: Pay Day
+144: Self-Destruct
+145: Triple Axel
+146: Electroweb
+147: Trick Room
+148: Wonder Roon
+149: Magic Room
+150: Hypnosis
