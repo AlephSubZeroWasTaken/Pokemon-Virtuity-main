@@ -367,20 +367,28 @@
 364,TM70,TM70,TM70s,4,1000,"The user blows a cold breath on the target. This attack always results in a critical hit.",3,0,0,FROSTBREATH
 365,TM71,TM71,TM71s,4,36000,"Large boulders are hurled at opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.",3,0,0,ROCKSLIDE
 366,TM72,TM72,TM72s,4,36000,"The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.",3,0,0,XSCISSOR
-366,TM73,TM73,TM73s,4,1000,"The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends.",3,0,0,DRAGONTAIL
-367,TM74,TM74,TM74s,4,500,"The target is infested and attacked for four to five turns. The target can't flee during this time.",3,0,0,INFESTATION
-368,TM75,TM75,TM75s,4,44000,"The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target.",3,0,0,POISONJAB
-369,TM76,TM76,TM76s,4,800,"The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal the user's HP.",3,0,0,DREAMEATER
-370,TM77,TM77,TM77s,4,10000,"The user snares the target with grass and trips it. The heavier the target, the greater the damage.",3,0,0,GRASSKNOT
-371,TM78,TM78,TM78s,4,10000,"The user enrages and confuses the target. However, it also sharply raises the target's Attack stat.",3,0,0,SWAGGER
-372,TM79,TM79,TM79s,4,10000,"While it is asleep, the user randomly uses one of the moves it knows.",3,0,0,SLEEPTALK
-373,TM80,TM80,TM80s,4,70000,"After making its attack, the user rushes back to switch places with a party Pokémon in waiting.",3,0,0,UTURN
-374,TM81,TM81,TM81s,4,10000,"The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.",3,0,0,SUBSTITUTE
-375,TM82,TM82,TM82s,4,10000,"The user gathers all its light energy and releases it at once. It may also lower the target's Sp. Def stat.",3,0,0,FLASHCANNON
-376,TM83,TM83,TM83s,4,5500,"The user flings its held item at the target to attack. This move's power and effects depend on the item.",3,0,0,FLING
-377,TM84,TM84,TM84s,4,50000,"The user shrouds itself in electricity and smashes into its target. It also damages the user a little.",3,0,0,WILDCHARGE
-378,TM85,TM85,TM85s,4,10000,"The user yells as if it is ranting about something, making the target's Sp. Atk stat decrease.",3,0,0,SNARL
-
+367,TM73,TM73,TM73s,4,1000,"The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends.",3,0,0,DRAGONTAIL
+368,TM74,TM74,TM74s,4,500,"The target is infested and attacked for four to five turns. The target can't flee during this time.",3,0,0,INFESTATION
+369,TM75,TM75,TM75s,4,44000,"The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target.",3,0,0,POISONJAB
+370,TM76,TM76,TM76s,4,800,"The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal the user's HP.",3,0,0,DREAMEATER
+371,TM77,TM77,TM77s,4,10000,"The user snares the target with grass and trips it. The heavier the target, the greater the damage.",3,0,0,GRASSKNOT
+372,TM78,TM78,TM78s,4,10000,"The user enrages and confuses the target. However, it also sharply raises the target's Attack stat.",3,0,0,SWAGGER
+373,TM79,TM79,TM79s,4,10000,"While it is asleep, the user randomly uses one of the moves it knows.",3,0,0,SLEEPTALK
+374,TM80,TM80,TM80s,4,70000,"After making its attack, the user rushes back to switch places with a party Pokémon in waiting.",3,0,0,UTURN
+375,TM81,TM81,TM81s,4,10000,"The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.",3,0,0,SUBSTITUTE
+376,TM82,TM82,TM82s,4,10000,"The user gathers all its light energy and releases it at once. It may also lower the target's Sp. Def stat.",3,0,0,FLASHCANNON
+377,TM83,TM83,TM83s,4,5500,"The user flings its held item at the target to attack. This move's power and effects depend on the item.",3,0,0,FLING
+378,TM84,TM84,TM84s,4,50000,"The user shrouds itself in electricity and smashes into its target. It also damages the user a little.",3,0,0,WILDCHARGE
+379,TM85,TM85,TM85s,4,10000,"The user yells as if it is ranting about something, making the target's Sp. Atk stat decrease.",3,0,0,SNARL
+380,TM86,TM86,TM86s,4,10000,"The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats.",3,0,0,DRAGONDANCE
+381,TM87,TM87,TM87s,4,10000,"The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.",3,0,0,DARKPULSE
+382,TM88,TM88,TM88s,4,10000,"Striking opponents over and over makes the user's fists harder. Hitting a target raises the Attack stat.",3,0,0,POWERUPPUNCH
+383,TM89,TM89,TM89s,4,10000,"The user damages opposing Pokémon by emitting a powerful flash.",3,0,0,DAZZLINGGLEAM
+384,TM90,TM91,TM91s,4,10000,"The user flashes a bright light that cuts the target's accuracy.",3,0,0,FLASH
+385,TM91,TM91,TM91s,4,10000,"The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.",3,0,0,ENDURE
+386,TM92,TM92,TM92s,4,10000,"The user drains the target's blood. The user's HP is restored by half the damage taken by the target.",3,0,0,LEECHLIFE
+387,TM93,TM93,TM93s,4,10000,"The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move's power.",3,0,0,HEAVYSLAM
+388,TM94,TM94,TM94s,4,10000,"The user burrows into the ground, then attacks on the next turn.",3,0,0,DIG
 #-------------------------------
 389,CHERIBERRY,Cheri Berry,Cheri Berries,5,20,"It may be used or held by a Pokémon to recover from paralysis.",1,1,5,
 390,CHESTOBERRY,Chesto Berry,Chesto Berries,5,20,"It may be used or held by a Pokémon to recover from sleep.",1,1,5,
@@ -621,11 +629,11 @@
 619,DREAMBALL,Dream Ball,Dream Balls,3,0,"A somewhat different Poké Ball that makes it easier to catch wild Pokémon while they're asleep.",0,4,3,
 620,BEASTBALL,Beast Ball,Beast Balls,3,1000,"A special Poké Ball designed to catch Ultra Beasts. It has a low success rate for catching others.",0,4,3,
 #-------------------------------
-621,TM96,TM96,TM96s,4,3500,"This attack makes use of nature's power. Its effects vary depending on the user's environment.",3,0,0,NATUREPOWER
-622,TM97,TM97,TM97s,4,15000,"The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.",3,0,0,DARKPULSE
-623,TM98,TM98,TM98s,4,15000,"Striking opponents repeatedly makes the user's fists harder. Hitting a target raises the Attack stat.",3,0,0,POWERUPPUNCH
-624,TM99,TM99,TM99s,4,9000,"The user damages opposing Pokémon by emitting a powerful flash.",3,0,0,DAZZLINGGLEAM
-625,TM100,TM100,TM100s,4,1000,"The user tells the target a secret. The target loses concentration and its Sp. Atk stat is lowered.",3,0,0,CONFIDE
+621,TM95,TM95,TM95s,4,10000,"The user generates a damaging sound wave by vibration. This may also lower the target's Sp. Def stat.",3,0,0,BUGBUZZ
+622,TM96,TM96,TM96s,4,10000,"A move that works differently for the Ghost type than for all other types.",3,0,0,SANDTOMB
+623,TM97,TM97,TM97s,4,10000,"The user teleports using a strange power and switches places with one of its allies.",3,0,0,ALLYSWITCH
+624,TM98,TM98,TM98s,4,10000,"The target is attacked by a kick launched with muscle-packed power.",3,0,0,MEGAKICK
+625,TM99,TM99,TM99s,4,10000,"In this two-turn attack, the user gathers light and fills a blade with the light's energy, attacking the target on the next turn.",3,0,0,SOLARBLADE
 #-------------------------------
 626,ROSELIBERRY,Roseli Berry,Roseli Berries,5,20,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Fairy-type attack.",0,0,5,
 627,KEEBERRY,Kee Berry,Kee Berries,5,20,"If held by a Pokémon, this Berry will increase the holder's Defense if it's hit with a physical move.",0,0,5,
@@ -639,32 +647,28 @@
 #-------------------------------
 634,LINKHEART,Link Heart,Link Hearts,1,10000,"A stone that fills the Pokemon's heart with a feeling similar to that of being traded.",1,0,7,
 #-------------------------------
-635,TM101,TM101,TM101s,4,10000,"A move that works differently for the Ghost type than for all other types.",3,0,0,CURSE
-636,TM102,TM102,TM102s,4,10000,"The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.",3,0,0,ENDURE
-637,TM103,TM103,TM103s,4,10000,"The user drains the target's blood. The user's HP is restored by half the damage taken by the target.",3,0,0,LEECHLIFE
-638,TM104,TM104,TM104s,4,10000,"The user attacks the target with an echoing voice. If this move is used every turn, it does greater damage.",3,0,0,ECHOEDVOICE
-639,TM105,TM105,TM105s,4,5000,"The user burrows into the ground, then attacks on the next turn.",3,0,0,DIG
-640,TM106,TM106,TM106s,4,10000,"The user attacks with electric voltage rising from the ground. This move's power doubles when the target is on Electric Terrain.",3,0,0,RISINGVOLTAGE
-641,TM107,TM107,TM106s,4,10000,"Gliding on the ground, the user attacks the target. This move always goes first on Grassy Terrain.",3,0,0,GRASSYGLIDE
-642,TM108,TM108,TM108s,4,10000,"The user attacks everything around it and faints upon using this move. This move's power is increased on Misty Terrain.",3,0,0,MISTYEXPLOSION
-643,TM109,TM109,TM109s,4,10000,"The user attacks the target with its psychic power. This move's power goes up and damages all opposing Pokémon on Psychic Terrain.",3,0,0,EXPANDINGFORCE
-644,TM110,TM110,TM110s,4,5000,"In this two-turn attack, the user gathers light and fills a blade with the light's energy, attacking the target on the next turn.",3,0,0,SOLARBLADE
-645,TM111,TM110,TM110s,4,10000,"he user absorbs a mystical power from space to raise its Defense and Sp. Def stats.",3,0,0,COSMICPOWER
-646,TM112,TM111,TM111s,4,10000,"The user violently whirls its vines, tentacles, or the like to harshly lash the target.",3,0,0,POWERWHIP
-647,TM113,TM112,TM112s,4,10000,"The target is attacked with a powerful beam. The user must rest on the next turn to regain its energy.",3,0,0,HYPERBEAM
-648,TM114,TM113,TM113s,4,10000,"The user swings both arms and hits the target. The target's stat changes don't affect this attack's damage.",3,0,0,DARKESTLARIAT
-649,TM115,TM114,TM114s,4,5000,"A slashing attack with a poisonous blade that may also poison the target. Critical hits land more easily.",3,0,0,CROSSPOISON
-650,TM116,TM115,TM115s,4,10000,"The user attacks by breathing a special, hot fire. This also lowers the target's Sp. Atk stat.",3,0,0,MYSTICALFIRE
-651,TM117,TM116,TM116s,4,10000,"The user attacks by slamming its body into the target. The higher the user's Defense, the more damage it can inflict on the target.",3,0,0,BODYPRESS
-652,TM118,TM117,TM117s,4,10000,"This attack move varies in power and type depending on the weather..",3,0,0,WEATHERBALL
-653,TM119,TM118,TM118s,4,10000,"The user switches places with a party Pokémon in waiting, if any. If a wild Pokémon uses this move, it flees.",3,0,0,TELEPORT
-654,TM120,TM119,TM119s,4,5000,"The user attacks opposing Pokémon with fire. If a Pokémon is holding a certain item, such as a Berry, the item becomes burned up and unusable.",3,0,0,INCINERATE
-655,TM121,TM121,TM121s,4,10000,"The user slashes the target with huge, sharp claws.",3,0,0,DRAGONCLAW
-656,TM122,TM122,TM122s,4,3000,"The user gets revenge for a fainted ally. If an ally fainted in the previous turn, this move's power is increased.",3,0,0,RETALIATE
-657,TM123,TM123,TM123s,4,1500,"The user attacks the enemy with a pollen puff that explodes. If the target is an ally, it gives the ally a pollen puff that restores its HP instead.",3,0,0,POLLENPUFF
-658,TM124,TM124,TM124s,4,6000,"The user utilizes the power of the terrain to attack. This move's type and power changes depending on the terrain when it's used.",3,0,0,TERRAINPULSE
-659,TM125,TM125,TM125s,4,9000,"After making its attack, the user rushes back to switch places with a party Pokémon in waiting.",3,0,0,FLIPTURN
-660,TM126,TM126,TM126s,4,500000,"The user stimulates its brain by thinking bad thoughts. This sharply raises the user's Sp. Atk stat.",3,0,0,NASTYPLOT
+635,TM100,TM100,TM100s,4,5000,"The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.",3,0,0,COSMICPOWER
+636,TM101,TM101,TM101s,4,10000,"The user violently whirls its vines, tentacles, or the like to harshly lash the target.",3,0,0,POWERWHIP
+637,TM102,TM102,TM102s,4,10000,"The target is attacked with a powerful beam. The user can't move on the next turn.",3,0,0,HYPERBEAM
+638,TM103,TM103,TM103s,4,10000,"The user swings both arms and hits the target. The target's stat changes don't affect this attack's damage.",3,0,0,DARKESTLARIAT
+639,TM104,TM104,TM104s,4,10000,"A  slashing attack with a poisonous blade that may also poison the target. Critical hits land more easily.",3,0,0,CROSSPOISON
+640,TM105,TM105,TM105s,4,5000,"The user attacks by breathing a special, hot fire. This also lowers the target's Sp. Atk stat.",3,0,0,MYSTICALFIRE
+641,TM106,TM106,TM106s,4,10000,"The user attacks by slamming its body into the target. The higher the user's Defense, the more damage it can inflict on the target.",3,0,0,BODYPRESS
+642,TM107,TM107,TM107s,4,10000,"The user switches places with a party Pokémon in waiting, if any. If a wild Pokémon uses this move, it flees.",3,0,0,TELEPORT
+643,TM108,TM108,TM108s,4,10000,"The user attacks opposing Pokémon with fire. If a Pokémon is holding a certain item, such as a Berry, the item becomes burned up and unusable.",3,0,0,INCINERATE
+644,TM109,TM109,TM109s,4,10000,"The user slashes the target with huge, sharp claws.",3,0,0,DRAGONCLAW
+645,TM110,TM110,TM110s,4,5000,"The user gets revenge for a fainted ally. If an ally fainted in the previous turn, this move's power is increased.",3,0,0,RETALIATE
+646,TM111,TM111,TM111s,4,10000,"The user attacks the enemy with a pollen puff that explodes. If the target is an ally, it gives the ally a pollen puff that restores its HP instead.",3,0,0,POLLENPUFF
+647,TM112,TM112,TM112s,4,500000,"The user utilizes the power of the terrain to attack. This move's type and power changes depending on the terrain when it's used.",3,0,0,TERRAINPULSE
+648,TM113,TM113,TM113s,4,10000,"After making its attack, the user rushes back to switch places with a party Pokémon in waiting.",3,0,0,FLIPTURN
+649,TM114,TM114,TM114s,4,10000,"The user stimulates its brain by thinking bad thoughts. This sharply raises the user's Sp. Atk stat.",3,0,0,NASTYPLOT
+650,TM115,TM115,TM115s,4,10000,"The user scatters curious leaves that chase the target. This attack never misses.",3,0,0,MAGICALLEAF
+651,TM116,TM116,TM116s,4,5000,"The target becomes trapped within a fierce vortex of fire that rages for four to five turns.",3,0,0,FIRESPIN
+652,TM117,TM117,TM117s,4,10000,"An earsplitting screech harshly lowers the target's Defense stat.",3,0,0,SCREECH
+653,TM118,TM118,TM118s,4,3000,"This attack can be used only if the user is asleep. The harsh noise may also make the target flinch.",3,0,0,SNORE
+654,TM119,TM119,TM119s,4,1500,"One turn after this move is used, the user's or its replacement's HP is restored by half the user's max HP.",3,0,0,WISH
+655,TM120,TM120,TM120s,4,6000,"The user gazes at the target rather charmingly, making it less wary. This harshly lowers the target's Attack stat.",3,0,0,CHARM
+656,TM121,TM121,TM121s,4,9000,"The user traps the target in a violent swirling whirlpool for four to five turns.",3,0,0,WHIRLPOOL
 #-------------------------------
 661,LONELYMINT,Lonely Mint,Lonely Mints,1,20,"When a Pokémon smells this mint, its Attack will grow more easily, but its Defense will grow more slowly.",1,0,0,
 662,ADAMANTMINT,Adamant Mint,Adamant Mints,1,20,"When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Atk will grow more slowly.",1,0,0,
@@ -726,7 +730,7 @@
 713,REACTIONBALL,Reaction Ball,Reaction Balls,3,300,"A Poké Ball that makes it easier to catch Pokémon that are either very fast or very slow.",0,4,3,
 714,PARKBALL,Park Ball,Park Balls,3,300,"A Poké Ball that has a higher chance to catch monotyped Pokémon.",0,4,3,
 #-------------------------------
-715,TM81,TM81,TM81s,4,36000,"The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.",3,0,0,XSCISSOR
+715,TM121,TM121,TM121s,4,500000,"The user assists an ally by boosting the power of that ally's attack.",3,0,0,HELPINGHAND
 #-------------------------------
 716,JOYSCENT,Joy Scent,Joy Scents,1,300,"This scent massage opens the hearts of Pokémon a little.",1,0,0
 717,EXCITESCENT,Excite Scent,Excite Scents,1,500,"This scent massage opens the hearts of Pokémon.",1,0,0

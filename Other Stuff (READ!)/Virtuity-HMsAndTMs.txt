@@ -91,14 +91,14 @@ TMs:
 83: Fling
 84: Wild Charge
 85: Snarl
-86: Nature Power
+86: Drahon Dance
 87: Dark Pulse
 88: Power Up Punch
 89: Dazzling Gleam
 90: Flash
 91: Endure
 92: Leech Life
-93: Echoed Voice
+93: Heavy Slam
 94: Dig 
 95: Bug Buzz
 96: Sand Tomb

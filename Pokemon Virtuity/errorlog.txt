@@ -141,3 +141,79 @@ Compiler_PBS:550:in `pbCompileItems'
 Compiler:1140:in `pbCompileAllData'
 Compiler:1281:in `pbCompiler'
 Main:1
+
+=================
+
+[Fri Nov 19 08:50:00 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: RuntimeError
+Message: Item ID number '366' is used twice.
+File PBS/items.txt, line 370
+366,TM73,TM73,TM73s,4,1000,"The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends.",3,0,0,DRAGONTAIL
+
+
+
+
+Backtrace:
+Compiler_PBS:554:in `pbCompileItems'
+Compiler_PBS:550:in `pbCompilerEachCommentedLine'
+Compiler:260:in `each_line'
+Compiler:260:in `pbCompilerEachCommentedLine'
+Compiler:257:in `open'
+Compiler:257:in `pbCompilerEachCommentedLine'
+Compiler_PBS:550:in `pbCompileItems'
+Compiler:1140:in `pbCompileAllData'
+Compiler:1281:in `pbCompiler'
+Main:1
+
+=================
+
+[Fri Nov 19 09:01:20 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: RuntimeError
+Message: Item ID number '635' is used twice.
+File PBS/items.txt, line 650
+635,TM100,TM100,TM100s,4,5000,"The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.",3,0,0,COSMICPOWER
+
+
+
+
+Backtrace:
+Compiler_PBS:554:in `pbCompileItems'
+Compiler_PBS:550:in `pbCompilerEachCommentedLine'
+Compiler:260:in `each_line'
+Compiler:260:in `pbCompilerEachCommentedLine'
+Compiler:257:in `open'
+Compiler:257:in `pbCompilerEachCommentedLine'
+Compiler_PBS:550:in `pbCompileItems'
+Compiler:1140:in `pbCompileAllData'
+Compiler:1281:in `pbCompiler'
+Main:1
+
+=================
+
+[Fri Nov 19 09:02:22 Eastern Standard Time 2021]
+[Pokémon Essentials version 18.1.dev]
+Exception: RuntimeError
+Message: Undefined move constant name: DAKRESTLARRIAT
+Name must consist only of letters, numbers, and
+underscores and can't begin with a number.
+Make sure the name is defined in
+PBS/moves.txt.
+File PBS/items.txt, line 653
+638,TM103,TM103,TM103s,4,10000,"The user swings both arms and hits the target. The target's stat changes don't affect this attack's damage.",3,0,0,DAKRESTLARRIAT
+
+
+
+
+Backtrace:
+Compiler:801:in `pbGetConst'
+Compiler:856:in `parseMove'
+Compiler_PBS:572:in `pbCompileItems'
+Compiler_PBS:550:in `pbCompilerEachCommentedLine'
+Compiler:260:in `each_line'
+Compiler:260:in `pbCompilerEachCommentedLine'
+Compiler:257:in `open'
+Compiler:257:in `pbCompilerEachCommentedLine'
+Compiler_PBS:550:in `pbCompileItems'
+Compiler:1140:in `pbCompileAllData'
