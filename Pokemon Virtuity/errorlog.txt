@@ -1,219 +1,76 @@
 
 =================
 
-[Thu Nov 18 09:26:11 Eastern Standard Time 2021]
-[Pokémon Essentials version 18.1.dev]
-Exception: RuntimeError
-Message: Script error within event 5 (coords 21,25), map 3 (Route 1 - Younster's Path):
-Exception: NameError
-Message: (eval):1:in `pbExecuteScript'uninitialized constant Interpreter::Pokemon
-
-***Full script:
-Pokemon.play.cry(:COMBEE)
-
-
-Backtrace:
-Interpreter:197:in `pbExecuteScript'
-Interpreter:1458:in `eval'
-Interpreter:197:in `pbExecuteScript'
-Interpreter:1458:in `command_355'
-Interpreter:359:in `execute_command'
-Interpreter:155:in `update'
-Interpreter:102:in `loop'
-Interpreter:158:in `update'
-Scene_Map:162:in `quicksave_update'
-Scene_Map:160:in `loop'
-
-
-Backtrace:
-Interpreter:246:in `pbExecuteScript'
-Interpreter:1458:in `command_355'
-Interpreter:359:in `execute_command'
-Interpreter:155:in `update'
-Interpreter:102:in `loop'
-Interpreter:158:in `update'
-Scene_Map:162:in `quicksave_update'
-Scene_Map:160:in `loop'
-Scene_Map:169:in `quicksave_update'
-Quick Save:20:in `update'
-
-=================
-
-[Thu Nov 18 09:30:06 Eastern Standard Time 2021]
-[Pokémon Essentials version 18.1.dev]
-Exception: RuntimeError
-Message: Script error within event 4 (coords 16,29), map 3 (Route 1 - Younster's Path):
-Exception: NameError
-Message: (eval):1:in `pbExecuteScript'uninitialized constant Interpreter::Pokemon
-
-***Full script:
-Pokemon.play.cry(:COMBEE)
-
-
-Backtrace:
-Interpreter:197:in `pbExecuteScript'
-Interpreter:1458:in `eval'
-Interpreter:197:in `pbExecuteScript'
-Interpreter:1458:in `command_355'
-Interpreter:359:in `execute_command'
-Interpreter:155:in `update'
-Interpreter:102:in `loop'
-Interpreter:158:in `update'
-Scene_Map:162:in `quicksave_update'
-Scene_Map:160:in `loop'
-
-
-Backtrace:
-Interpreter:246:in `pbExecuteScript'
-Interpreter:1458:in `command_355'
-Interpreter:359:in `execute_command'
-Interpreter:155:in `update'
-Interpreter:102:in `loop'
-Interpreter:158:in `update'
-Scene_Map:162:in `quicksave_update'
-Scene_Map:160:in `loop'
-Scene_Map:169:in `quicksave_update'
-Quick Save:20:in `update'
-
-=================
-
-[Thu Nov 18 12:41:08 Eastern Standard Time 2021]
+[Fri Nov 19 18:03:12 Eastern Standard Time 2021]
 [Pokémon Essentials version 18.1.dev]
 Exception: NoMethodError
-Message: undefined method `each' for nil:NilClass
+Message: undefined method `ablePokemonCount' for nil:NilClass
 
 Backtrace:
-MessageConfig:616:in `pbFadeOutAndHide'
-PScreen_Load:194:in `pbEndScene'
-Mutisaves:324:in `pbStartLoadScreen'
-Main:8:in `main'
-Main:45:in `mainFunctionDebug'
-Main:24:in `mainFunction'
-Main:24:in `pbCriticalCode'
-Main:24:in `mainFunction'
-Main:55
-Main:54:in `loop'
+PField_Field:499:in `pbBattleOnStepTaken'
+PField_Field:377
+PField_Field:375:in `call'
+Event_Handlers:51:in `trigger'
+Event_Handlers:46:in `each'
+Event_Handlers:46:in `trigger'
+Game_Player:99:in `turn_generic'
+Game_Character:695:in `turn_right'
+Game_Player:367:in `update_command_new'
+Game_Character:781:in `update_command'
 
 =================
 
-[Thu Nov 18 18:25:04 Eastern Standard Time 2021]
+[Fri Nov 19 18:03:58 Eastern Standard Time 2021]
 [Pokémon Essentials version 18.1.dev]
-Exception: RuntimeError
-Message: Item ID number '296' is used twice.
-File PBS/items.txt, line 306
-296,TM09,TM09,TM09s,4,2000,"The user drenches the target in a special poisonous liquid. Its power is doubled if the target is poisoned.",3,0,0,VENOSHOCK
-
-
-
+Exception: NoMethodError
+Message: undefined method `ablePokemonCount' for nil:NilClass
 
 Backtrace:
-Compiler_PBS:554:in `pbCompileItems'
-Compiler_PBS:550:in `pbCompilerEachCommentedLine'
-Compiler:260:in `each_line'
-Compiler:260:in `pbCompilerEachCommentedLine'
-Compiler:257:in `open'
-Compiler:257:in `pbCompilerEachCommentedLine'
-Compiler_PBS:550:in `pbCompileItems'
-Compiler:1140:in `pbCompileAllData'
-Compiler:1281:in `pbCompiler'
-Main:1
+PField_Field:499:in `pbBattleOnStepTaken'
+PField_Field:377
+PField_Field:375:in `call'
+Event_Handlers:51:in `trigger'
+Event_Handlers:46:in `each'
+Event_Handlers:46:in `trigger'
+Game_Player:99:in `turn_generic'
+Game_Character:695:in `turn_right'
+Game_Player:367:in `update_command_new'
+Game_Character:781:in `update_command'
 
 =================
 
-[Thu Nov 18 18:59:53 Eastern Standard Time 2021]
+[Fri Nov 19 18:04:51 Eastern Standard Time 2021]
 [Pokémon Essentials version 18.1.dev]
-Exception: RuntimeError
-Message: Item ID number '298' is used twice.
-File PBS/items.txt, line 304
-298,TM07,TM07,TM07s,4,45000,"Summons a hailstorm that lasts for five turns. The hailstorm damages all types except Ice.",3,0,0,HAIL
-
-
-
+Exception: NoMethodError
+Message: undefined method `ablePokemonCount' for nil:NilClass
 
 Backtrace:
-Compiler_PBS:554:in `pbCompileItems'
-Compiler_PBS:550:in `pbCompilerEachCommentedLine'
-Compiler:260:in `each_line'
-Compiler:260:in `pbCompilerEachCommentedLine'
-Compiler:257:in `open'
-Compiler:257:in `pbCompilerEachCommentedLine'
-Compiler_PBS:550:in `pbCompileItems'
-Compiler:1140:in `pbCompileAllData'
-Compiler:1281:in `pbCompiler'
-Main:1
+PField_Field:499:in `pbBattleOnStepTaken'
+PField_Field:377
+PField_Field:375:in `call'
+Event_Handlers:51:in `trigger'
+Event_Handlers:46:in `each'
+Event_Handlers:46:in `trigger'
+Game_Player:99:in `turn_generic'
+Game_Character:695:in `turn_right'
+Game_Player:367:in `update_command_new'
+Game_Character:781:in `update_command'
 
 =================
 
-[Fri Nov 19 08:50:00 Eastern Standard Time 2021]
+[Fri Nov 19 18:06:15 Eastern Standard Time 2021]
 [Pokémon Essentials version 18.1.dev]
-Exception: RuntimeError
-Message: Item ID number '366' is used twice.
-File PBS/items.txt, line 370
-366,TM73,TM73,TM73s,4,1000,"The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends.",3,0,0,DRAGONTAIL
-
-
-
+Exception: NoMethodError
+Message: undefined method `ablePokemonCount' for nil:NilClass
 
 Backtrace:
-Compiler_PBS:554:in `pbCompileItems'
-Compiler_PBS:550:in `pbCompilerEachCommentedLine'
-Compiler:260:in `each_line'
-Compiler:260:in `pbCompilerEachCommentedLine'
-Compiler:257:in `open'
-Compiler:257:in `pbCompilerEachCommentedLine'
-Compiler_PBS:550:in `pbCompileItems'
-Compiler:1140:in `pbCompileAllData'
-Compiler:1281:in `pbCompiler'
-Main:1
-
-=================
-
-[Fri Nov 19 09:01:20 Eastern Standard Time 2021]
-[Pokémon Essentials version 18.1.dev]
-Exception: RuntimeError
-Message: Item ID number '635' is used twice.
-File PBS/items.txt, line 650
-635,TM100,TM100,TM100s,4,5000,"The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.",3,0,0,COSMICPOWER
-
-
-
-
-Backtrace:
-Compiler_PBS:554:in `pbCompileItems'
-Compiler_PBS:550:in `pbCompilerEachCommentedLine'
-Compiler:260:in `each_line'
-Compiler:260:in `pbCompilerEachCommentedLine'
-Compiler:257:in `open'
-Compiler:257:in `pbCompilerEachCommentedLine'
-Compiler_PBS:550:in `pbCompileItems'
-Compiler:1140:in `pbCompileAllData'
-Compiler:1281:in `pbCompiler'
-Main:1
-
-=================
-
-[Fri Nov 19 09:02:22 Eastern Standard Time 2021]
-[Pokémon Essentials version 18.1.dev]
-Exception: RuntimeError
-Message: Undefined move constant name: DAKRESTLARRIAT
-Name must consist only of letters, numbers, and
-underscores and can't begin with a number.
-Make sure the name is defined in
-PBS/moves.txt.
-File PBS/items.txt, line 653
-638,TM103,TM103,TM103s,4,10000,"The user swings both arms and hits the target. The target's stat changes don't affect this attack's damage.",3,0,0,DAKRESTLARRIAT
-
-
-
-
-Backtrace:
-Compiler:801:in `pbGetConst'
-Compiler:856:in `parseMove'
-Compiler_PBS:572:in `pbCompileItems'
-Compiler_PBS:550:in `pbCompilerEachCommentedLine'
-Compiler:260:in `each_line'
-Compiler:260:in `pbCompilerEachCommentedLine'
-Compiler:257:in `open'
-Compiler:257:in `pbCompilerEachCommentedLine'
-Compiler_PBS:550:in `pbCompileItems'
-Compiler:1140:in `pbCompileAllData'
+PField_Field:499:in `pbBattleOnStepTaken'
+PField_Field:377
+PField_Field:375:in `call'
+Event_Handlers:51:in `trigger'
+Event_Handlers:46:in `each'
+Event_Handlers:46:in `trigger'
+Game_Player:99:in `turn_generic'
+Game_Character:695:in `turn_right'
+Game_Player:367:in `update_command_new'
+Game_Character:781:in `update_command'
