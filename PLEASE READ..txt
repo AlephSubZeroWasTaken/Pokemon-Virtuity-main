@@ -77,7 +77,10 @@ WE ARE DEFINITELY MISSING SOME PEOPLE. IF YOU HAVE ANY IDEA WHO PLEASE MENTION S
 NOTES ABOUT THIS GAME SPECIFICALLY!:
 Shadow Pokemon are obtainable ingame with their own special events. The Shadow type is supereffective on every type but Fairy (resists) and Dark (immune).
 
+Saves are stored in the 'Pokemon Animosity' folder of this game.
 
 Other stuff has some interesting notes and details about the game itself it is suggested to read. **Optional though!**
 
-MULTIPLE SAVES ARE A PLANNED FEATURE FOR FUTURE UPDATES!!!!!!!!
+PLANNED FEATURES FOR THE FUTURE:
+- Alphabetically sorted items
+- Buffs are added as the game is updated and progresses.
