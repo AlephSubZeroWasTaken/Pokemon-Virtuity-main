@@ -136,12 +136,12 @@ TMs:
 128: Razor Shell
 129: Phantom Force
 130: Draining Kiss
-131: Mystical Fire
+131: Charm
 132: Hone Claws
 133: Air Slash
 134: Tri Attack
 135: Metronome
-136; Endure
+136: Endure
 137: Mirror Coat
 138: Counter
 139: Nightmare
@@ -156,3 +156,10 @@ TMs:
 148: Wonder Roon
 149: Magic Room
 150: Hypnosis
+151: Scale Shot
+152: Dual Wingbeat
+153: Bullet Seed
+154: Pin Missile
+155: Rock Blast
+156: Icicle Spear
+157: Tail Slap

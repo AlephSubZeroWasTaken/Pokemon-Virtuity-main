@@ -668,7 +668,7 @@
 653,TM118,TM118,TM118s,4,3000,"This attack can be used only if the user is asleep. The harsh noise may also make the target flinch.",3,0,0,SNORE
 654,TM119,TM119,TM119s,4,1500,"One turn after this move is used, the user's or its replacement's HP is restored by half the user's max HP.",3,0,0,WISH
 655,TM120,TM120,TM120s,4,6000,"The user gazes at the target rather charmingly, making it less wary. This harshly lowers the target's Attack stat.",3,0,0,CHARM
-656,TM121,TM121,TM121s,4,9000,"The user traps the target in a violent swirling whirlpool for four to five turns.",3,0,0,WHIRLPOOL
+656,TM121,TM121,TM121s,4,500000,"The user assists an ally by boosting the power of that ally's attack.",3,0,0,HELPINGHAND
 #-------------------------------
 661,LONELYMINT,Lonely Mint,Lonely Mints,1,20,"When a Pokémon smells this mint, its Attack will grow more easily, but its Defense will grow more slowly.",1,0,0,
 662,ADAMANTMINT,Adamant Mint,Adamant Mints,1,20,"When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Atk will grow more slowly.",1,0,0,
@@ -730,7 +730,7 @@
 713,REACTIONBALL,Reaction Ball,Reaction Balls,3,300,"A Poké Ball that makes it easier to catch Pokémon that are either very fast or very slow.",0,4,3,
 714,PARKBALL,Park Ball,Park Balls,3,300,"A Poké Ball that has a higher chance to catch monotyped Pokémon.",0,4,3,
 #-------------------------------
-715,TM121,TM121,TM121s,4,500000,"The user assists an ally by boosting the power of that ally's attack.",3,0,0,HELPINGHAND
+715,TM122,TM122,TM122s,4,9000,"The user traps the target in a violent swirling whirlpool for four to five turns.",3,0,0,WHIRLPOOL
 #-------------------------------
 716,JOYSCENT,Joy Scent,Joy Scents,1,300,"This scent massage opens the hearts of Pokémon a little.",1,0,0
 717,EXCITESCENT,Excite Scent,Excite Scents,1,500,"This scent massage opens the hearts of Pokémon.",1,0,0
@@ -738,3 +738,38 @@
 719,TIMEFLUTE,Time Flute,Time Flutes,1,3000,"This item fully opens the hearts of a Pokémon.",1,0,0
 #-------------------------------
 720,ALOLANPANCAKES,Alolan Pancakes,Alolan Pancakes,1,3000,"Pancakes imported from Alola, they allow a certain type of Pokemon to evolve.",1,0,7,
+#-------------------------------
+721,TM123,TM123,TM123s,4,9000,"This attack move's power is doubled if the user has been hurt by the opponent in the same turn.",3,0,0,REVENGE
+722,TM124,TM124,TM124s,4,9000,"The user feigns crying to fluster the target, harshly lowering its Sp. Def stat.",3,0,0,FAKETEARS
+723,TM125,TM125,TM125s,4,9000,"This attack move varies in power and type depending on the weather.",3,0,0,WEATHERBALL
+724,TM126,TM126,TM126s,4,9000,"The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",3,0,0,BEATUP
+725,TM127,TM127,TM127s,4,9000,"This relentless attack does massive damage to a target affected by status conditions.",3,0,0,HEX
+726,TM128,TM128,TM128s,4,9000,"The user cuts its target with sharp shells. This may also lower the target's Defense stat.",3,0,0,RAZORSHELL
+727,TM129,TM129,TM129s,4,9000,"The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.",3,0,0,PHANTOMFORCE
+728,TM130,TM130,TM130s,4,9000,"The user steals the target's HP with a kiss. The user's HP is restored by over half of the damage taken by the target.",3,0,0,DRAININGKISS
+729,TM131,TM131,TM131s,4,9000,"The user gazes at the target rather charmingly, making it less wary. This harshly lowers the target's Attack stat.",3,0,0,CHARM
+730,TM132,TM132,TM132s,4,9000,"The user sharpens its claws to boost its Attack stat and accuracy.",3,0,0,HONECLAWS
+731,TM133,TM134,TM134s,4,9000,"The user attacks with a blade of air that slices even the sky. This may also make the target flinch.",3,0,0,AIRSLASH
+732,TM134,TM135,TM135s,4,9000,"The user strikes with a simultaneous three-beam attack. This may also burn, freeze, or paralyze the target.",3,0,0,TRIATTACK
+733,TM135,TM136,TM136s,4,9000,"The user waggles a finger and stimulates its brain into randomly using nearly any move.",3,0,0,METRONOME
+734,TM136,TM137,TM137s,4,9000,"The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.",3,0,0,ENDURE
+735,TM137,TM137,TM137s,4,9000,"A retaliation move that counters any special attack, inflicting double the damage taken.",3,0,0,MIRRORCOAT
+736,TM138,TM138,TM138s,4,9000,"A retaliation move that counters any physical attack, inflicting double the damage taken.",3,0,0,COUNTER
+737,TM139,TM139,TM139s,4,9000,"A sleeping target sees a nightmare that inflicts some damage every turn.",3,0,0,NIGHTMARE
+738,TM140,TM140,TM140s,4,9000,"The user charges at the target and may make it flinch.",3,0,0,WATERFALL
+739,TM141,TM141,TM141s,4,9000,"Diving on the first turn, the user floats up and attacks on the next turn.",3,0,0,DIVE
+740,TM142,TM142,TM142s,4,9000,"Numerous coins are hurled at the target to inflict damage. Money is earned after the battle.",3,0,0,PAYDAY
+741,TM143,TM143,TM143s,4,9000,"The user attacks everything around it by causing an explosion. The user faints upon using this move.",3,0,0,SELFDESTRUCT
+742,TM144,TM144,TM144s,4,9000,"A consecutive three-kick attack that becomes more powerful with each successful hit.",3,0,0,TRIPLEAXEL
+743,TM145,TM145,TM145s,4,9000,"The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stats.",3,0,0,ELECTROWEB
+744,TM146,TM146,TM146s,4,9000,"The user creates a bizarre area in which slower Pokémon get to move first for five turns.",3,0,0,TRICKROOM
+745,TM147,TM147,TM147s,4,9000,"The user creates a bizarre area in which Pokémon's Defense and Sp. Def stats are swapped for five turns.",3,0,0,WONDERROOM
+746,TM148,TM148,TM148s,4,9000,"The user creates a bizarre area in which Pokémon's held items lose their effects for five turns.",3,0,0,MAGICROOM
+747,TM149,TM149,TM149s,4,9000,"The user employs hypnotic suggestion to make the target fall into a deep sleep.",3,0,0,HYPNOSIS
+748,TM150,TM150,TM150s,4,9000,"The user attacks by shooting scales two to five times in a row. This move boosts the user's Speed stat but lowers its Defense stat.",3,0,0,SCALESHOT
+749,TM151,TM151,TM151s,4,9000,"The user slams the target with its wings. The target is hit twice in a row.",3,0,0,DUALWINGBEAT
+750,TM152,TM152,TM152s,4,9000,"The user forcefully shoots seeds at the target two to five times in a row.",3,0,0,BULLETSEED
+751,TM153,TM153,TM153s,4,9000,"Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.",3,0,0,PINMISSILE
+752,TM154,TM154,TM154s,4,9000,"The user hurls hard rocks at the target. Two to five rocks are launched in a row.",3,0,0,ROCKBLAST
+753,TM155,TM155,TM155s,4,9000,"The user launches sharp icicles at the target two to five times in a row.",3,0,0,ICICLESPEAR
+754,TM156,TM156,TM156s,4,9000,"The user attacks by striking the target with its hard tail. It hits the target two to five times in a row.",3,0,0,TAILSLAP
